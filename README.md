@@ -19,6 +19,7 @@ Found 15+ H/M issues in over 10 contests.
 | [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) | 1 M, 1 L | Soon |
 | [ENS](https://code4rena.com/audits/2023-10-ens) | 5 L | Soon |
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | 3 H | Soon |
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | Judging | Soon |
 | Overall | 4 H, 2 M, 9 L | |
 
 ## Sherlock
