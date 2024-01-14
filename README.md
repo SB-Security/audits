@@ -9,7 +9,7 @@ Please contact us if you have any questions or if you'd like a security audit fo
 
 # Audit Contests
 
-Found 15+ H/M issues in over 10 contests.
+Found 25+ H/M issues in over 10 contests.
 
 ## Code4rena
 
