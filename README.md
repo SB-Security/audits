@@ -39,3 +39,12 @@ Found 25+ H/M issues in over 10 contests.
 | [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | 1 M, 3 L | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-09-Sparkn.md) |
 | [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | 2 M, 3 L | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-10-SteadeFi.md) |
 | Overall | 5 H, 5 M, 10 L | |
+
+# Protocol Analyses
+
+Constantly meeting the highest expectations of the contest sponsors with the quality and added value of the analyses that we deliver.
+
+| Contest | Quality | Report |
+|:--:|:--:|:--:|
+| [ENS](https://code4rena.com/audits/2023-10-ens) | Sufficient Quality | [Analysis](https://github.com/SB-Security/audits/blob/master/analyses/2023-10-ENS.md) |
+| [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | High Quality | [Analysis](https://github.com/SB-Security/audits/blob/master/analyses/2023-11-KelpDAO.md) |
