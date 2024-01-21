@@ -20,6 +20,7 @@ Found 25+ H/M issues in over 10 contests.
 | [ENS](https://code4rena.com/audits/2023-10-ens) | 5 L | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-10-ENS.md) |
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | 3 H (100%), 3 L | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-11-KelpDAO.md) |
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | Judging | Soon |
+| [reNFT](https://code4rena.com/audits/2024-01-renft) | Judging | Soon |
 | Overall | 4 H, 2 M, 12 L | |
 
 ## Sherlock
