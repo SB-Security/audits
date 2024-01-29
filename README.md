@@ -26,7 +26,6 @@ Found 25+ H/M issues in over 10 contests.
 | [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | 1 M, 3 L | CodeHawks | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-09-Sparkn.md) |
 | [BeedleFi](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 H, 3 L | CodeHawks | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-06-BeedleFi.md) |
 | [Foundry DeFi Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 1 H, 2 M, 1L | CodeHawks | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-06-Defi-Stablecoin.md) |
-| Overall | 9 H, 10 M, 22 L | |
 
 # Protocol Analyses
 
