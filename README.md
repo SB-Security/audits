@@ -42,6 +42,6 @@ Constantly meeting the highest expectations of the contest sponsors with the qua
 | [ENS](https://code4rena.com/audits/2023-10-ens) | Sufficient Quality | [Analysis](https://github.com/SB-Security/audits/blob/master/analyses/2023-10-ENS.md) |
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | High Quality | [Analysis](https://github.com/SB-Security/audits/blob/master/analyses/2023-11-KelpDAO.md) |
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | High Quality | Soon |
-| [reNFT](https://code4rena.com/audits/2024-01-renft#top) | High Quality | Soon |
+| [reNFT](https://code4rena.com/audits/2024-01-renft#top) | High Quality | [Analysis](https://github.com/SB-Security/audits/blob/master/analyses/2024-01-reNFT.md) |
 | [Decent](https://code4rena.com/audits/2024-01-decent#top) | High Quality | Soon |
 
