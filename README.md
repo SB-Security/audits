@@ -19,7 +19,7 @@ Found 25+ H/M issues in over 10 contests.
 
 | Contest | Findings | Platform | Audit Report |
 |:--:|:--:|:--:|:--:|
-| [Decent](https://code4rena.com/audits/2024-01-decent) | Judging | Code4rena | Soon |
+| [Decent](https://code4rena.com/audits/2024-01-decent) | 1 H | Code4rena | Soon |
 | [reNFT](https://code4rena.com/audits/2024-01-renft) | 5 M | Code4rena | Soon |
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 3 M, 13 L | Code4rena | Soon |
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | 3 H (100%), 3 L | Code4rena | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-11-KelpDAO.md) |
