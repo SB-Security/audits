@@ -21,7 +21,7 @@ Found 25+ H/M issues in over 10 contests.
 |:--:|:--:|:--:|:--:|
 | [Decent](https://code4rena.com/audits/2024-01-decent) | Judging | Code4rena | Soon |
 | [reNFT](https://code4rena.com/audits/2024-01-renft) | 5 M | Code4rena | Soon |
-| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | Judging | Code4rena | Soon |
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 3 M, 13 L | Code4rena | Soon |
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | 3 H (100%), 3 L | Code4rena | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-11-KelpDAO.md) |
 | [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | 2 M, 3 L | CodeHawks | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-10-SteadeFi.md) |
 | [ENS](https://code4rena.com/audits/2023-10-ens) | 5 L | Code4rena | [Report](https://github.com/SB-Security/audits/blob/master/reports/2023-10-ENS.md) |
@@ -41,3 +41,7 @@ Constantly meeting the highest expectations of the contest sponsors with the qua
 |:--:|:--:|:--:|
 | [ENS](https://code4rena.com/audits/2023-10-ens) | Sufficient Quality | [Analysis](https://github.com/SB-Security/audits/blob/master/analyses/2023-10-ENS.md) |
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | High Quality | [Analysis](https://github.com/SB-Security/audits/blob/master/analyses/2023-11-KelpDAO.md) |
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | High Quality | Soon |
+| [reNFT](https://code4rena.com/audits/2024-01-renft#top) | High Quality | Soon |
+| [Decent](https://code4rena.com/audits/2024-01-decent#top) | High Quality | Soon |
+
