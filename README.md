@@ -6,6 +6,8 @@ Please contact us if you have any questions or if you'd like a security audit fo
 - Telegram - [Slavcheww](https://t.me/Slavcheww) / [Blckhv](https://t.me/Blckhv)
 - Discord - Slavcheww / Blckhv
 
+Found 30+ H/M issues in over 15 audits.
+
 # Private Audits
 
 | **Protocol** | Category | Report | Date |
@@ -16,8 +18,6 @@ Please contact us if you have any questions or if you'd like a security audit fo
 
 
 # Audit Contests
-
-Found 25+ H/M issues in over 10 contests.
 
 | Contest | Findings | Platform | Audit Report |
 |:--:|:--:|:--:|:--:|
