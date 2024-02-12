@@ -10,6 +10,8 @@ Please contact us if you have any questions or if you'd like a security audit fo
 
 | **Protocol** | Category | Report | Date |
 |:--:|:--:|:--:|:--:|
+| Undisclosed protocol |  | Undergoing audit |	February 2024 |
+| Undisclosed protocol | Yield Farm | Undergoing audit |	February 2024 |
 | [KINGX](https://kingx.titanxmarket.win/) | Token | Undergoing audit |	February 2024 |
 
 
