@@ -29,7 +29,7 @@ Found 30+ H/M issues in over 15 audits.
 | [ENS](https://code4rena.com/audits/2023-10-ens) | 5 L | Code4rena | [Report](/reports/contests/2023-10-ENS.md) |
 | [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) | 1 M, 1 L | Code4rena | [Report](/reports/contests/2023-09-Venus-Prime.md) |
 | [Allo v2](https://audits.sherlock.xyz/contests/109) | 2 M | Sherlock | [Report](/reports/contests/2023-09-Allo-V2.md) |
-| [Cooler Update](https://audits.sherlock.xyz/contests/107) | 1 M | Sherlock | [Report](/reports/contests/2023-10-Cooler-Update.md) |
+| [Cooler Update](https://audits.sherlock.xyz/contests/107) | 1 M | Sherlock | [Report](/reports/contests/2023-08-Cooler-Update.md) |
 | [Dopex](https://code4rena.com/audits/2023-08-dopex) | 1 H, 1 M, 3 L | Code4rena | [Report](/reports/contests/2023-08-Dopex.md) |
 | [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | 1 M, 3 L | CodeHawks | [Report](/reports/contests/2023-09-Sparkn.md) |
 | [BeedleFi](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 H, 3 L | CodeHawks | [Report](/reports/contests/2023-06-BeedleFi.md) |
