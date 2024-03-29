@@ -12,8 +12,7 @@ Found 30+ H/M issues in over 15 audits.
 
 | **Protocol** | Category | Report | Date |
 |:--:|:--:|:--:|:--:|
-| Undisclosed protocol |  | Undergoing audit |	February 2024 |
-| Undisclosed protocol | Yield Farm | Undergoing audit |	February 2024 |
+| Undisclosed protocol | Yield Farm | Soon |	February 2024 |
 | [KINGX](https://kingx.titanxmarket.win/) | Token | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
 
 
