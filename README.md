@@ -21,7 +21,7 @@ Found 30+ H/M issues in over 15 audits.
 
 | Contest | Findings | Platform | Audit Report |
 |:--:|:--:|:--:|:--:|
-| [Decent](https://code4rena.com/audits/2024-01-decent) | 1 H | Code4rena | Soon |
+| [Decent](https://code4rena.com/audits/2024-01-decent) | 1 H, 3 L | Code4rena | [Report](/reports/contests/2024-01-Decent.md) |
 | [reNFT](https://code4rena.com/audits/2024-01-renft) | 5 M, 3 L | Code4rena | [Report](/reports/contests/2024-01-reNFT.md) |
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 3 M, 11 L | Code4rena | [Report](/reports/contests/2023-12-EthereumCreditGuild.md) |
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | 3 H (100%), 3 L | Code4rena | [Report](/reports/contests/2023-11-KelpDAO.md) |
@@ -45,4 +45,4 @@ Constantly meeting the highest expectations of the contest sponsors with the qua
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | High Quality | [Analysis](/analyses/2023-11-KelpDAO.md) |
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | High Quality | [Analysis](/analyses/2023-12-EthereumCreditGuild.md) |
 | [reNFT](https://code4rena.com/audits/2024-01-renft#top) | High Quality | [Analysis](/analyses/2024-01-reNFT.md) |
-| [Decent](https://code4rena.com/audits/2024-01-decent#top) | High Quality | Soon |
+| [Decent](https://code4rena.com/audits/2024-01-decent#top) | High Quality | [Analysis](/analyses/2024-01-Decent.md) |
