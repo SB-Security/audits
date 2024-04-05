@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="img/Banner.png" alt="SBSecurity Banner">
+</p>
+
 # SBSecurity's Audit Portfolio
 
 Please contact us if you have any questions or if you'd like a security audit for your project.
