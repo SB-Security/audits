@@ -22,7 +22,8 @@ If you have any questions or are seeking a security review for your project, fee
 
 | **Protocol** | Category | Report | Date |
 |-----------------|:----------------:|:------------------:|:------------------------:|
-| Undisclosed protocol          | Yield Farm | Soon |	February 2024 |
+| Zero-G Finance          | Liquid Restaking Protocol | Soon |	April 2024 |
+| Lila Finance          | Yield Farm | Soon |	February 2024 |
 | [KINGX](https://kingx.titanxmarket.win/)                    | Token | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
 
 
