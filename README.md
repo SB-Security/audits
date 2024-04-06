@@ -1,23 +1,27 @@
-<p align="center">
+<p align="center" href="https://sbsecurity.net">
     <img src="img/Banner.png" alt="SBSecurity Banner">
 </p>
 
-# SBSecurity's Audit Portfolio
+For comprehensive details about our offerings, achievements, team, and more, feel free to explore our website - [**sbsecurity.net**](https://sbsecurity.net/)
 
-Please contact us if you have any questions or if you'd like a security audit for your project.
+## About us
 
-- Twitter - [Slavcheww](https://twitter.com/Slavcheww) / [Blckhv](https://twitter.com/blckhv)
-- Telegram - [Slavcheww](https://t.me/Slavcheww) / [Blckhv](https://t.me/Blckhv)
-- Discord - Slavcheww / Blckhv
+We are a duo of experienced smart contract researchers, dedicated to becoming leaders in the field by providing the best security services possible. We have achieved multiple top places on Code4rena, uncovering over 30 H/M severity vulnerabilities across 15+ audits.
 
-Found 30+ H/M issues in over 15 audits.
+## Book us
+
+If you have any questions or are seeking a security review for your project, feel free to contact us at:
+
+- Twitter - [**Slavcheww**](https://twitter.com/Slavcheww) / [**Blckhv**](https://twitter.com/blckhv)
+- Telegram - [**Slavcheww**](https://t.me/Slavcheww) / [**Blckhv**](https://t.me/Blckhv)
+- Discord - [**Slavcheww**](https://discordapp.com/users/263383171058499585) / [**Blckhv**](https://discordapp.com/users/215564246786768896)
 
 # Private Audits
 
 | **Protocol** | Category | Report | Date |
-|:--:|:--:|:--:|:--:|
-| Undisclosed protocol | Yield Farm | Soon |	February 2024 |
-| [KINGX](https://kingx.titanxmarket.win/) | Token | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
+|-----------------|:----------------:|:------------------:|:------------------------:|
+| Undisclosed protocol          | Yield Farm | Soon |	February 2024 |
+| [KINGX](https://kingx.titanxmarket.win/)                    | Token | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
 
 
 # Audit Contests
