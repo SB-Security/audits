@@ -1,5 +1,7 @@
-<p align="center" href="https://sbsecurity.net">
-    <img src="img/Banner.png" alt="SBSecurity Banner">
+<p align="center">
+    <a href="https://sbsecurity.net" target="_blank">
+        <img src="img/Banner.png" alt="SBSecurity Banner">
+    </a>
 </p>
 
 For comprehensive details about our offerings, achievements, team, and more, feel free to explore our website - [**sbsecurity.net**](https://sbsecurity.net/)
