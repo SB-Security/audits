@@ -8,7 +8,7 @@ For comprehensive details about our offerings, achievements, team, and more, fee
 
 ## About us
 
-We are a duo of experienced smart contract researchers, dedicated to becoming leaders in the field by providing the best security services possible. We have achieved multiple top places on Code4rena, uncovering over 30 H/M severity vulnerabilities across 15+ audits.
+We are a duo of experienced smart contract researchers, dedicated to becoming leaders in the field by providing the best security services possible. We have achieved multiple top places on Code4rena, uncovering over 60 H/M severity vulnerabilities across 15+ audits.
 
 ## Book us
 
@@ -18,7 +18,9 @@ If you have any questions or are seeking a security review for your project, fee
 - Telegram - [**Slavcheww**](https://t.me/Slavcheww) / [**Blckhv**](https://t.me/Blckhv)
 - Discord - [**Slavcheww**](https://discordapp.com/users/263383171058499585) / [**Blckhv**](https://discordapp.com/users/215564246786768896)
 
-# Private Audits
+## Our Engagements
+
+### Private
 
 | **Protocol** | Category | Report | Date |
 |-----------------|:----------------:|:------------------:|:------------------------:|
@@ -27,7 +29,7 @@ If you have any questions or are seeking a security review for your project, fee
 | [KINGX](https://kingx.titanxmarket.win/)                    | Token | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
 
 
-# Audit Contests
+### Contests
 
 | Contest | Findings | Audit Report |
 |:--:|:--:|:--:|
@@ -45,7 +47,7 @@ If you have any questions or are seeking a security review for your project, fee
 | [BeedleFi](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 H, 3 L | [Report](/reports/contests/2023-06-BeedleFi.md) |
 | [Foundry DeFi Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 1 H, 2 M, 1L | [Report](/reports/contests/2023-06-Defi-Stablecoin.md) |
 
-# Protocol Analyses
+### Protocol Analyses
 
 Constantly meeting the highest expectations of the contest sponsors with the quality and added value of the analyses that we deliver.
 
