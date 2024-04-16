@@ -33,10 +33,11 @@ If you have any questions or are seeking a security review for your project, fee
 
 | Contest | Findings | Audit Report |
 |:--:|:--:|:--:|
+| [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | 3 M (Top 10) | Soon 
 | [Decent](https://code4rena.com/audits/2024-01-decent) | 1 H, 3 L | [Report](/reports/contests/2024-01-Decent.md) |
 | [reNFT](https://code4rena.com/audits/2024-01-renft) | 5 M, 3 L | [Report](/reports/contests/2024-01-reNFT.md) |
-| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 3 M, 11 L | [Report](/reports/contests/2023-12-EthereumCreditGuild.md) |
-| [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | 3 H (100%), 3 L| [Report](/reports/contests/2023-11-KelpDAO.md) |
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 3 M, 11 L (Top 10) | [Report](/reports/contests/2023-12-EthereumCreditGuild.md) |
+| [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | 3 H, 3 L (Top 5)| [Report](/reports/contests/2023-11-KelpDAO.md) |
 | [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | 2 M, 3 L | [Report](/reports/contests/2023-10-SteadeFi.md) |
 | [ENS](https://code4rena.com/audits/2023-10-ens) | 5 L | [Report](/reports/contests/2023-10-ENS.md) |
 | [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime) | 1 M, 1 L | [Report](/reports/contests/2023-09-Venus-Prime.md) |
@@ -53,8 +54,11 @@ Constantly meeting the highest expectations of the contest sponsors with the qua
 
 | Contest | Quality | Report |
 |:--:|:--:|:--:|
-| [ENS](https://code4rena.com/audits/2023-10-ens) | Sufficient Quality | [Analysis](/analyses/2023-10-ENS.md) |
-| [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | High Quality | [Analysis](/analyses/2023-11-KelpDAO.md) |
-| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | High Quality | [Analysis](/analyses/2023-12-EthereumCreditGuild.md) |
-| [reNFT](https://code4rena.com/audits/2024-01-renft#top) | High Quality | [Analysis](/analyses/2024-01-reNFT.md) |
+| [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | High Quality | Soon |
 | [Decent](https://code4rena.com/audits/2024-01-decent#top) | High Quality | [Analysis](/analyses/2024-01-Decent.md) |
+| [reNFT](https://code4rena.com/audits/2024-01-renft#top) | High Quality | [Analysis](/analyses/2024-01-reNFT.md) |
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | High Quality | [Analysis](/analyses/2023-12-EthereumCreditGuild.md) |
+| [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | High Quality | [Analysis](/analyses/2023-11-KelpDAO.md) |
+| [ENS](https://code4rena.com/audits/2023-10-ens) | Sufficient Quality | [Analysis](/analyses/2023-10-ENS.md) |
+
+
