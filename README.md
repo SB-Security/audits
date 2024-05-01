@@ -18,7 +18,7 @@ If you have any questions or are seeking a security review for your project, fee
 - Telegram - [**Slavcheww**](https://t.me/Slavcheww) / [**Blckhv**](https://t.me/Blckhv)
 - Discord - [**Slavcheww**](https://discordapp.com/users/263383171058499585) / [**Blckhv**](https://discordapp.com/users/215564246786768896)
 
-## Our Engagements
+## Our Work
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
