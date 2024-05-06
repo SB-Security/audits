@@ -24,9 +24,9 @@ If you have any questions or are seeking a security review for your project, fee
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
 | 21 |[DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Soon | Soon | Soon |	April 2024 |
 | 20 |[Zero-G Finance](https://zerog.finance/) | Liquid Restaking protocol (KelpDAO fork) allowing depositing of multiple LST and Native ETH | 2 H, 3 M, 7 L | [Report](/reports/private/Zero-G-Finance-Security-Review.pdf) |	April 2024 |
-| 19 |[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero Cross-Chain governance modules | 1 M (Top 1) |  Soon |	March 2024 |
+| 19 |[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero Cross-Chain governance modules | 🥇 1st - 1 M |  [Report](/reports/contests/2024-03-VenusGovernance.md) |	March 2024 |
 | 18 |[CoinBase](https://code4rena.com/audits/2024-03-smart-wallet#top) | Smart Wallet | - | - | March 2024 |
-| 17 |[Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | Lending/Borrowing protocol allows users to collect APY from borrowers | Soon | Soon |	March 2024 |
+| 17 |[Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | Lending/Borrowing protocol allows users to collect variable APY from borrowers | 3 M | [Report](/reports/contests/2024-03-WiseLending.md) |	March 2024 |
 | 16 |[Spectra](https://code4rena.com/audits/2024-02-spectra#top) | PT/YT, permissionless interest rate derivatives protocol |  4 L | [Report](https://code4rena.com/reports/2024-02-spectra#low-risk-and-non-critical-issues) |	March 2024 |
 | 15 |Lila Finance | Yield Farm protocol | Soon | Soon | February 2024 |
 | 14 |[KINGX](https://kingx.titanxmarket.win/) | ERC20 Token | 2 C, 3 M, 10 L | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
