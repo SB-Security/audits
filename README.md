@@ -29,7 +29,7 @@ If you have any questions or are seeking a security review for your project, fee
 | 18 |[CoinBase](https://code4rena.com/audits/2024-03-smart-wallet#top) | Smart Wallet | - | - | March 2024 |
 | 17 |[Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | Lending/Borrowing protocol allows users to collect variable APY from borrowers | 3 M | [Report](/reports/contests/2024-03-WiseLending.md) |	March 2024 |
 | 16 |[Spectra](https://code4rena.com/audits/2024-02-spectra#top) | PT/YT, permissionless interest rate derivatives protocol |  4 L | [Report](https://code4rena.com/reports/2024-02-spectra#low-risk-and-non-critical-issues) |	March 2024 |
-| 15 |Lila Finance | Yield Farm protocol | Soon | Soon | February 2024 |
+| 15 |[Lila Finance](https://www.lila.finance/) | Yield Farm protocol |  2 C, 3 H, 5M, 17 L | [Report](/reports/private/Lila-Finance-Report.pdf) | February 2024 |
 | 14 |[KINGX](https://kingx.titanxmarket.win/) | ERC20 Token | 2 C, 3 M, 10 L | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
 | 13 |[Decent](https://code4rena.com/audits/2024-01-decent) | One-click cross-chain transactions, allowing to choose from which chain to pay | 1 H, 3 L | [Report](/reports/contests/2024-01-Decent.md) |	January 2024 |
 | 12 |[reNFT](https://code4rena.com/audits/2024-01-renft) | Collateral-free NFT rentals built on top of Gnosis Safe and Seaport | 5 M, 3 L | [Report](/reports/contests/2024-01-reNFT.md) |	January 2024 |
