@@ -51,7 +51,7 @@ Constantly meeting the highest expectations of the protocol with the quality and
 
 | Protocol | Quality | Report |
 |:--:|:--:|:--:|
-| [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | High Quality | Soon |
+| [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | High Quality | [Analysis](/analyses/2024-03-WiseLending.md) |
 | [Decent](https://code4rena.com/audits/2024-01-decent#top) | High Quality | [Analysis](/analyses/2024-01-Decent.md) |
 | [reNFT](https://code4rena.com/audits/2024-01-renft#top) | High Quality | [Analysis](/analyses/2024-01-reNFT.md) |
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | High Quality | [Analysis](/analyses/2023-12-EthereumCreditGuild.md) |
