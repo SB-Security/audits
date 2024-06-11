@@ -22,6 +22,8 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 28 | Undisclosed | Soon | Soon | Soon | June 2024 |
+| 27 | Undisclosed | Soon | Soon | Soon | June 2024 |
 | 26 | [CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
 | 25 |[EnderProtocol](https://www.enderprotocol.io/) | Soon | Soon | Soon | May 2024 |
 | 24 | Undisclosed | Soon | Soon | Soon | May 2024 |
