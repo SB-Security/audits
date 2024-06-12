@@ -23,11 +23,11 @@ If you have any questions or are seeking a security review for your project, fee
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
 | 28 | Undisclosed | Soon | Soon | Soon | June 2024 |
-| 27 | Undisclosed | Soon | Soon | Soon | June 2024 |
-| 26 | [CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
-| 25 |[EnderProtocol](https://www.enderprotocol.io/) | Soon | Soon | Soon | May 2024 |
-| 24 | Undisclosed | Soon | Soon | Soon | May 2024 |
-| 23 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Soon | Soon | Soon | May 2024 |
+| 27 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
+| 26 |[EnderProtocol](https://www.enderprotocol.io/) | Soon | Soon | Soon | May 2024 |
+| 25 |[LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | Liquid Restaking protocol | 1 H | Soon | May 2024 |
+| 24 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Soon | Soon | Soon | May 2024 |
+| 23 | Undisclosed | Soon | Soon | Soon | May 2024 |
 | 22 |[Renzo](https://code4rena.com/audits/2024-04-renzo#top) | Liquid Restaking protocol | 4 H, 3 M, 4 L | Soon |	May 2024 |
 | 21 |[DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Overcollateralized stablecoin | 4 H, 7 M, 4 L | Soon |	April 2024 |
 | 20 |[Zero-G Finance](https://zerog.finance/) | Liquid Restaking protocol (KelpDAO fork) allowing depositing of multiple LST and Native ETH | 2 H, 3 M, 7 L | [Report](/reports/private/Zero-G-Finance-Security-Review.pdf) |	April 2024 |
