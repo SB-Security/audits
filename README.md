@@ -24,9 +24,9 @@ If you have any questions or are seeking a security review for your project, fee
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
 | 28 | Undisclosed | Soon | Soon | Soon | June 2024 |
 | 27 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
-| 26 |[EnderProtocol](https://www.enderprotocol.io/) | Soon | Soon | Soon | May 2024 |
+| 26 |[EnderProtocol](https://www.enderprotocol.io/) | Bonds combined with Liquid Staking Power | 2 H, 5 M, 9 L | [Report](/reports/private/Ender-Protocol-Security-Review.pdf) | May 2024 |
 | 25 |[LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | Liquid Restaking protocol | 1 H | Soon | May 2024 |
-| 24 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Soon | Soon | Soon | May 2024 |
+| 24 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Gnosis Safe Integration | 1 M | Soon | May 2024 |
 | 23 | Undisclosed | Soon | Soon | Soon | May 2024 |
 | 22 |[Renzo](https://code4rena.com/audits/2024-04-renzo#top) | Liquid Restaking protocol | 4 H, 3 M, 4 L | Soon |	May 2024 |
 | 21 |[DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Overcollateralized stablecoin | 4 H, 7 M, 4 L (Top 10) | Soon |	April 2024 |
