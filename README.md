@@ -29,7 +29,7 @@ If you have any questions or are seeking a security review for your project, fee
 | 24 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Gnosis Safe Integration | 1 M | Soon | May 2024 |
 | 23 | Undisclosed | Soon | Soon | Soon | May 2024 |
 | 22 |[Renzo](https://code4rena.com/audits/2024-04-renzo#top) | Liquid Restaking protocol | 4 H, 3 M, 4 L | Soon |	May 2024 |
-| 21 |[DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Overcollateralized stablecoin | 4 H, 7 M, 4 L (Top 10) | Soon |	April 2024 |
+| 21 |[DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Overcollateralized stablecoin | 4 H, 7 M, 4 L (Top 10) | [Report](/reports/contests/2024-04-DYAD.md) |	April 2024 |
 | 20 |[Zero-G Finance](https://zerog.finance/) | Liquid Restaking protocol (KelpDAO fork) allowing depositing of multiple LST and Native ETH | 2 H, 3 M, 7 L | [Report](/reports/private/Zero-G-Finance-Security-Review.pdf) |	April 2024 |
 | 19 |[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero Cross-Chain governance modules | 🥇 1st - 1 M |  [Report](/reports/contests/2024-03-VenusGovernance.md) |	March 2024 |
 | 18 |[CoinBase](https://code4rena.com/audits/2024-03-smart-wallet#top) | Smart Wallet | - | - | March 2024 |
