@@ -22,8 +22,11 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 34 | Undisclosed | Soon | Soon | Soon | July 2024 |
+| 33 |[Fenix Finance](https://www.fenixfinance.io/) | Unified Trading and Liquidity Marketplace | 1 M | Soon | July 2024 |
+| 32 |[Badger eBTC](https://www.ebtc.finance/) | CDP protocol allowing eBTC debt positions with stETH | 1 M | Soon | June 2024 |
 | 31 | Undisclosed | Soon | Soon | Soon | June 2024 |
-| 30 | Undisclosed | Soon | Soon | Soon | June 2024 |
+| 30 |[Mellow Finance](https://melow-finance.com/?gad_source=1) | Infrastructure for LRTs | 1 M | Soon | June 2024 |
 | 29 |[OmniNFT - Second Review](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 1 C, 1 H, 3 M, 3 L | [Report](/reports/private/OmniNFT-Second-Security-Review.pdf) | June 2024 |
 | 28 |[OmniNFT](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 2 C, 1 H, 7 M, 3 L | [Report](/reports/private/OmniNFT-Security-Review.pdf) | June 2024 |
 | 27 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
