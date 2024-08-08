@@ -8,7 +8,7 @@ For comprehensive details about our offerings, achievements, team, and more, fee
 
 ## About us
 
-We are a duo of experienced smart contract researchers, dedicated to becoming leaders in the field by providing the best security services possible. We have achieved multiple top places on Code4rena, uncovering over 150 H/M severity vulnerabilities across 25+ audits.
+We are a duo of experienced smart contract researchers, dedicated to becoming leaders in the field by providing the best security services possible. We have achieved multiple top places on Code4rena, uncovering over 150 H/M severity vulnerabilities across 35+ audits.
 
 ## Book us
 
@@ -20,29 +20,39 @@ If you have any questions or are seeking a security review for your project, fee
 
 ## Our Work
 
+### Private Engagements
+
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 34 | Undisclosed | Soon | Soon | Soon | July 2024 |
-| 33 |[Fenix Finance](https://www.fenixfinance.io/) | Unified Trading and Liquidity Marketplace | 1 M | Soon | July 2024 |
-| 32 |[Badger eBTC](https://www.ebtc.finance/) | CDP protocol allowing eBTC debt positions with stETH | 1 M | Soon | June 2024 |
-| 31 | Undisclosed | Soon | Soon | Soon | June 2024 |
-| 30 |[Mellow Finance](https://melow-finance.com/?gad_source=1) | Infrastructure for LRTs | 1 M | Soon | June 2024 |
-| 29 |[OmniNFT - Second Review](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 1 C, 1 H, 3 M, 3 L | [Report](/reports/private/OmniNFT-Second-Security-Review.pdf) | June 2024 |
-| 28 |[OmniNFT](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 2 C, 1 H, 7 M, 3 L | [Report](/reports/private/OmniNFT-Security-Review.pdf) | June 2024 |
-| 27 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
-| 26 |[EnderProtocol](https://www.enderprotocol.io/) | Bonds combined with Liquid Staking Power | 2 H, 5 M, 9 L | [Report](/reports/private/Ender-Protocol-Security-Review.pdf) | May 2024 |
-| 25 |[LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | Liquid Restaking protocol | 1 H | Soon | May 2024 |
-| 24 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Gnosis Safe Integration | 1 M | Soon | May 2024 |
-| 23 |[Noya](https://code4rena.com/audits/2024-04-noya#top) | Deposit/Withdraw in multiple Connectors | 3 H, 5 M | Soon | May 2024 |
-| 22 |[Renzo](https://code4rena.com/audits/2024-04-renzo#top) | Liquid Restaking protocol | 4 H, 3 M, 4 L | Soon |	May 2024 |
-| 21 |[DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Overcollateralized stablecoin | 4 H, 7 M, 4 L (Top 10) | [Report](/reports/contests/2024-04-DYAD.md) |	April 2024 |
-| 20 |[Zero-G Finance](https://zerog.finance/) | Liquid Restaking protocol (KelpDAO fork) allowing depositing of multiple LST and Native ETH | 2 H, 3 M, 7 L | [Report](/reports/private/Zero-G-Finance-Security-Review.pdf) |	April 2024 |
-| 19 |[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero Cross-Chain governance modules | 🥇 1st - 1 M |  [Report](/reports/contests/2024-03-VenusGovernance.md) |	March 2024 |
-| 18 |[CoinBase](https://code4rena.com/audits/2024-03-smart-wallet#top) | Smart Wallet | - | - | March 2024 |
-| 17 |[Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | Lending/Borrowing protocol allows users to collect variable APY from borrowers | 3 M | [Report](/reports/contests/2024-03-WiseLending.md) |	March 2024 |
-| 16 |[Spectra](https://code4rena.com/audits/2024-02-spectra#top) | PT/YT, permissionless interest rate derivatives protocol |  4 L | [Report](https://code4rena.com/reports/2024-02-spectra#low-risk-and-non-critical-issues) |	March 2024 |
-| 15 |[Lila Finance](https://www.lila.finance/) | Yield Farm protocol |  2 C, 3 H, 5M, 17 L | [Report](/reports/private/Lila-Finance-Report.pdf) | February 2024 |
-| 14 |[KINGX](https://kingx.titanxmarket.win/) | ERC20 Token | 2 C, 3 M, 10 L | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
+| 7 |[OmniNFT - Second Review](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 1 C, 1 H, 3 M, 3 L | [Report](/reports/private/OmniNFT-Second-Security-Review.pdf) | June 2024 |
+| 6 |[OmniNFT](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 2 C, 1 H, 7 M, 3 L | [Report](/reports/private/OmniNFT-Security-Review.pdf) | June 2024 |
+| 5 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
+| 4 |[EnderProtocol](https://www.enderprotocol.io/) | Bonds combined with Liquid Staking Power | 2 H, 5 M, 9 L | [Report](/reports/private/Ender-Protocol-Security-Review.pdf) | May 2024 |
+| 3 |[Zero-G Finance](https://zerog.finance/) | Liquid Restaking protocol (KelpDAO fork) allowing depositing of multiple LST and Native ETH | 2 H, 3 M, 7 L | [Report](/reports/private/Zero-G-Finance-Security-Review.pdf) |	April 2024 |
+| 2 |[Lila Finance](https://www.lila.finance/) | Yield Farm protocol |  2 C, 3 H, 5M, 17 L | [Report](/reports/private/Lila-Finance-Report.pdf) | February 2024 |
+| 1 |[KINGX](https://kingx.titanxmarket.win/) | ERC20 Token | 2 C, 3 M, 10 L | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
+
+### Public Competitions
+
+|    | **Protocol** | Type | Findings | Report | Date |
+|:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 30 | Undisclosed | Soon | Soon | Soon | August 2024 |
+| 29 |[Zaros](https://www.zaros.fi/) | Perpetuals DEX powered by Boosted (Re)Staking Vaults | Soon | Soon | July 2024 |
+| 28 |[TempleDAO](https://templedao.link/) | Soon | Soon | Soon | July 2024 |
+| 27 |[MagicSea](https://magicsea.finance/) | MasterChef fork with Voting on IotaEVM | Soon | Soon | July 2024 |
+| 26 |[Fenix Finance](https://www.fenixfinance.io/) | Unified Trading and Liquidity Marketplace | 1 M | Soon | July 2024 |
+| 25 |[Badger eBTC](https://www.ebtc.finance/) | CDP protocol allowing eBTC debt positions with stETH | 1 M (Top 5)  | Soon | June 2024 |
+| 24 |[Palmera](https://www.palmeradao.xyz/) | Gnosis Safe Integration | 1 L | - | June 2024 |
+| 23 |[Mellow Finance](https://melow-finance.com/?gad_source=1) | Infrastructure for LRTs | 1 M | Soon | June 2024 |
+| 22 |[LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | Liquid Restaking protocol | 1 H | Soon | May 2024 |
+| 21 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Gnosis Safe Integration | 1 M | Soon | May 2024 |
+| 20 |[Noya](https://code4rena.com/audits/2024-04-noya#top) | Deposit/Withdraw in multiple Connectors | 3 H, 5 M | Soon | May 2024 |
+| 19 |[Renzo](https://code4rena.com/audits/2024-04-renzo#top) | Liquid Restaking protocol | 4 H, 3 M, 4 L | Soon |	May 2024 |
+| 18 |[DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Overcollateralized stablecoin | 4 H, 7 M, 4 L (Top 10) | [Report](/reports/contests/2024-04-DYAD.md) |	April 2024 |
+| 17 |[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero Cross-Chain governance modules | 🥇 1st - 1 M |  [Report](/reports/contests/2024-03-VenusGovernance.md) |	March 2024 |
+| 16 |[CoinBase](https://code4rena.com/audits/2024-03-smart-wallet#top) | Smart Wallet | - | - | March 2024 |
+| 15 |[Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) | Lending/Borrowing protocol allows users to collect variable APY from borrowers | 3 M | [Report](/reports/contests/2024-03-WiseLending.md) |	March 2024 |
+| 14 |[Spectra](https://code4rena.com/audits/2024-02-spectra#top) | PT/YT, permissionless interest rate derivatives protocol |  4 L | [Report](https://code4rena.com/reports/2024-02-spectra#low-risk-and-non-critical-issues) |	March 2024 |
 | 13 |[Decent](https://code4rena.com/audits/2024-01-decent) | One-click cross-chain transactions, allowing to choose from which chain to pay | 1 H, 3 L | [Report](/reports/contests/2024-01-Decent.md) |	January 2024 |
 | 12 |[reNFT](https://code4rena.com/audits/2024-01-renft) | Collateral-free NFT rentals built on top of Gnosis Safe and Seaport | 5 M, 3 L | [Report](/reports/contests/2024-01-reNFT.md) |	January 2024 |
 | 11 |[Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | Lending/Borrowing/Staking protocol with custom middle token, governance and option to sell lending position at auction | 3 M, 11 L (Top 10) | [Report](/reports/contests/2023-12-EthereumCreditGuild.md) |	December 2023 |
