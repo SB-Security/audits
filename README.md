@@ -36,10 +36,11 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 31 | Undisclosed | Soon | Soon | Soon | August 2024 |
 | 30 | Undisclosed | Soon | Soon | Soon | August 2024 |
 | 29 |[Zaros](https://www.zaros.fi/) | Perpetuals DEX powered by Boosted (Re)Staking Vaults | Soon | Soon | July 2024 |
-| 28 |[TempleDAO](https://templedao.link/) | Soon | Soon | Soon | July 2024 |
-| 27 |[MagicSea](https://magicsea.finance/) | MasterChef fork with Voting on IotaEVM | Soon | Soon | July 2024 |
+| 28 |[TempleDAO](https://templedao.link/) | Airdrops | 1 H, 1 L | Soon | July 2024 |
+| 27 |[MagicSea](https://magicsea.finance/) | MasterChef fork with Voting on IotaEVM | 4 H, 5 M (Top 10) | Soon | July 2024 |
 | 26 |[Fenix Finance](https://www.fenixfinance.io/) | Unified Trading and Liquidity Marketplace | 🥈 place, 1 M | Soon | July 2024 |
 | 25 |[Badger eBTC](https://www.ebtc.finance/) | CDP protocol allowing eBTC debt positions with stETH | 1 M (Top 5)  | Soon | June 2024 |
 | 24 |[Palmera](https://www.palmeradao.xyz/) | Gnosis Safe Integration | 1 L | - | June 2024 |
