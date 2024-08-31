@@ -39,16 +39,16 @@ If you have any questions or are seeking a security review for your project, fee
 | 31 | Undisclosed | Soon | Soon | Soon | August 2024 |
 | 30 | Undisclosed | Soon | Soon | Soon | August 2024 |
 | 29 |[Zaros](https://www.zaros.fi/) | Perpetuals DEX powered by Boosted (Re)Staking Vaults | Soon | Soon | July 2024 |
-| 28 |[TempleDAO](https://templedao.link/) | Airdrops | 1 H, 1 L | Soon | July 2024 |
-| 27 |[MagicSea](https://magicsea.finance/) | MasterChef fork with Voting on IotaEVM | 4 H, 5 M (Top 10) | Soon | July 2024 |
-| 26 |[Fenix Finance](https://www.fenixfinance.io/) | Unified Trading and Liquidity Marketplace | 🥈 place, 1 M | Soon | July 2024 |
-| 25 |[Badger eBTC](https://www.ebtc.finance/) | CDP protocol allowing eBTC debt positions with stETH | 1 M (Top 5)  | Soon | June 2024 |
+| 28 |[TempleDAO](https://templedao.link/) | Airdrops | 1 H, 1 L | [Report](/reports/contests/2024-07-TempleDAO.md) | July 2024 |
+| 27 |[MagicSea](https://magicsea.finance/) | MasterChef fork with Voting on IotaEVM | 4 H, 5 M (Top 10) | [Report](/reports/contests/2024-07-MagicSea.md) | July 2024 |
+| 26 |[Fenix Finance](https://www.fenixfinance.io/) | Unified Trading and Liquidity Marketplace | 🥈 place, 1 M | [Report](/reports/contests/2024-07-Fenix.md) | July 2024 |
+| 25 |[Badger eBTC](https://www.ebtc.finance/) | CDP protocol allowing eBTC debt positions with stETH | 1 M (Top 5)  | [Report](/reports/contests/2024-06-Badger-eBTC.md) | June 2024 |
 | 24 |[Palmera](https://www.palmeradao.xyz/) | Gnosis Safe Integration | 1 L | - | June 2024 |
-| 23 |[Mellow Finance](https://melow-finance.com/?gad_source=1) | Infrastructure for LRTs | 1 M | Soon | June 2024 |
-| 22 |[LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | Liquid Restaking protocol | 1 H | Soon | May 2024 |
-| 21 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Gnosis Safe Integration | 1 M | Soon | May 2024 |
-| 20 |[Noya](https://code4rena.com/audits/2024-04-noya#top) | Deposit/Withdraw in multiple Connectors | 3 H, 5 M | Soon | May 2024 |
-| 19 |[Renzo](https://code4rena.com/audits/2024-04-renzo#top) | Liquid Restaking protocol | 4 H, 3 M, 4 L | Soon |	May 2024 |
+| 23 |[Mellow Finance](https://melow-finance.com/?gad_source=1) | Infrastructure for LRTs | 1 M | [Report](/reports/contests/2024-06-Mellow.md) | June 2024 |
+| 22 |[LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | Liquid Restaking protocol | 1 H | [Report](/reports/contests/2024-05-LoopFi.md) | May 2024 |
+| 21 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Gnosis Safe Integration | 1 M | [Report](/reports/contests/2024-05-OptimismSafeExtensions.md) | May 2024 |
+| 20 |[Noya](https://code4rena.com/audits/2024-04-noya#top) | Deposit/Withdraw in multiple Connectors | 3 H, 5 M | [Report](/reports/contests/2024-05-Noya.md) | May 2024 |
+| 19 |[Renzo](https://code4rena.com/audits/2024-04-renzo#top) | Liquid Restaking protocol | 4 H, 3 M, 4 L | [Report](/reports/contests/2024-05-Renzo.md) |	May 2024 |
 | 18 |[DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Overcollateralized stablecoin | 4 H, 7 M, 4 L (Top 10) | [Report](/reports/contests/2024-04-DYAD.md) |	April 2024 |
 | 17 |[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero Cross-Chain governance modules | 🥇 place, 1 M, 1 L |  [Report](/reports/contests/2024-03-VenusGovernance.md) |	March 2024 |
 | 16 |[CoinBase](https://code4rena.com/audits/2024-03-smart-wallet#top) | Smart Wallet | - | - | March 2024 |
