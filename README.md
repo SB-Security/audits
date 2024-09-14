@@ -36,6 +36,9 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 34 | Undisclosed | Soon | Soon | Soon | September 2024 |
+| 33 | Undisclosed | Soon | Soon | Soon | September 2024 |
+| 32 | Undisclosed | Soon | Soon | Soon | August 2024 |
 | 31 | Undisclosed | Soon | Soon | Soon | August 2024 |
 | 30 | Undisclosed | Soon | Soon | Soon | August 2024 |
 | 29 |[Zaros](https://www.zaros.fi/) | Perpetuals DEX powered by Boosted (Re)Staking Vaults | Soon | Soon | July 2024 |
