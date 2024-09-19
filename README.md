@@ -24,6 +24,8 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 9 | Undisclosed | Soon | Soon | Soon | September 2024 |
+| 8 | Undisclosed | Soon | Soon | Soon | September 2024 |
 | 7 |[OmniNFT - Second Review](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 1 C, 1 H, 3 M, 3 L | [Report](/reports/private/OmniNFT-Second-Security-Review.pdf) | June 2024 |
 | 6 |[OmniNFT](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 2 C, 1 H, 7 M, 3 L | [Report](/reports/private/OmniNFT-Security-Review.pdf) | June 2024 |
 | 5 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
