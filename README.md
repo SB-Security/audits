@@ -8,7 +8,7 @@ For comprehensive details about our offerings, achievements, team, and more, fee
 
 ## About us
 
-We are a duo of experienced smart contract researchers, dedicated to becoming leaders in the field by providing the best security services possible. We have achieved multiple top places on Code4rena, uncovering over 150 H/M severity vulnerabilities across 35+ audits.
+We are a duo of experienced smart contract researchers, dedicated to becoming leaders in the field by providing the best security services possible. We have achieved multiple top places on Code4rena, uncovering over 230 H/M severity vulnerabilities across 40+ audits.
 
 ## Book us
 
