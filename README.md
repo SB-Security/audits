@@ -24,7 +24,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 10| [Origami](https://origami.finance/) | ERC-4626 Vault | Soon | Soon | September 2024 |
+| 10|[Origami](https://origami.finance/) | ERC-4626 Vault | Soon | Soon | September 2024 |
 | 9 | Undisclosed | Soon | Soon | Soon | September 2024 |
 | 8 |[YetiApes](https://www.yetiapes.xyz/) | DualToken Staking | Soon | Soon | September 2024 |
 | 7 |[OmniNFT - Second Review](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 1 C, 1 H, 3 M, 3 L | [Report](/reports/private/OmniNFT-Second-Security-Review.pdf) | June 2024 |
@@ -39,18 +39,18 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 34 | Undisclosed | Soon | Soon | Soon | September 2024 |
-| 33 | Undisclosed | Soon | Soon | Soon | September 2024 |
+| 34 |[Superposition](https://code4rena.com/audits/2024-08-superposition) | Soon | Soon | Soon | September 2024 |
+| 33 |[Chakra](https://code4rena.com/audits/2024-08-chakra) | Soon | Soon | Soon | September 2024 |
 | 32 | Undisclosed | Soon | Soon | Soon | August 2024 |
-| 31 | Undisclosed | Soon | Soon | Soon | August 2024 |
-| 30 | Undisclosed | Soon | Soon | Soon | August 2024 |
-| 29 |[Zaros](https://www.zaros.fi/) | Perpetuals DEX powered by Boosted (Re)Staking Vaults | 5 H, 2 M, 7 L (6th place) | Soon | July 2024 |
-| 28 |[TempleDAO](https://templedao.link/) | Airdrops | 1 H, 1 L | [Report](/reports/contests/2024-07-TempleDAO.md) | July 2024 |
-| 27 |[MagicSea](https://magicsea.finance/) | MasterChef fork with Voting on IotaEVM | 4 H, 5 M (Top 10) | [Report](/reports/contests/2024-07-MagicSea.md) | July 2024 |
+| 31 |[ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Soon | Soon | Soon | August 2024 |
+| 30 |[ArkProject](https://codehawks.cyfrin.io/c/2024-07-ark-project) | Soon | Soon | Soon | August 2024 |
+| 29 |[Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros) | Perpetuals DEX powered by Boosted (Re)Staking Vaults | 5 H, 2 M, 7 L (6th place) | Soon | July 2024 |
+| 28 |[TempleDAO](https://codehawks.cyfrin.io/c/2024-07-templegold) | Airdrops | 1 H, 1 L | [Report](/reports/contests/2024-07-TempleDAO.md) | July 2024 |
+| 27 |[MagicSea](https://audits.sherlock.xyz/contests/437) | MasterChef fork with Voting on IotaEVM | 4 H, 5 M (Top 10) | [Report](/reports/contests/2024-07-MagicSea.md) | July 2024 |
 | 26 |[Fenix Finance](https://www.fenixfinance.io/) | Unified Trading and Liquidity Marketplace | 🥈 place, 1 M | [Report](/reports/contests/2024-07-Fenix.md) | July 2024 |
-| 25 |[Badger eBTC](https://www.ebtc.finance/) | CDP protocol allowing eBTC debt positions with stETH | 1 M (Top 5)  | [Report](/reports/contests/2024-06-Badger-eBTC.md) | June 2024 |
+| 25 |[Badger eBTC](https://code4rena.com/audits/2024-06-ebtc-zap-router) | CDP protocol allowing eBTC debt positions with stETH | 1 M (Top 5)  | [Report](/reports/contests/2024-06-Badger-eBTC.md) | June 2024 |
 | 24 |[Palmera](https://www.palmeradao.xyz/) | Gnosis Safe Integration | 1 L | - | June 2024 |
-| 23 |[Mellow Finance](https://melow-finance.com/?gad_source=1) | Infrastructure for LRTs | 1 M | [Report](/reports/contests/2024-06-Mellow.md) | June 2024 |
+| 23 |[Mellow Finance](https://audits.sherlock.xyz/contests/423) | Infrastructure for LRTs | 1 M | [Report](/reports/contests/2024-06-Mellow.md) | June 2024 |
 | 22 |[LoopFi](https://code4rena.com/audits/2024-05-loopfi#top) | Liquid Restaking protocol | 1 H | [Report](/reports/contests/2024-05-LoopFi.md) | May 2024 |
 | 21 |[Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Gnosis Safe Integration | 1 M | [Report](/reports/contests/2024-05-OptimismSafeExtensions.md) | May 2024 |
 | 20 |[Noya](https://code4rena.com/audits/2024-04-noya#top) | Deposit/Withdraw in multiple Connectors | 3 H, 5 M | [Report](/reports/contests/2024-05-Noya.md) | May 2024 |
