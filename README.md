@@ -41,7 +41,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 34 |[Superposition](https://code4rena.com/audits/2024-08-superposition) | Uniswap V3 for on Rust | 4 H, 1 M, 5 L | Soon | September 2024 |
+| 34 |[Superposition](https://code4rena.com/audits/2024-08-superposition) | Uniswap V3 on Rust | 4 H, 1 M, 5 L | Soon | September 2024 |
 | 33 |[Chakra](https://code4rena.com/audits/2024-08-chakra) | Soon | Soon | Soon | September 2024 |
 | 32 |[Lido: Mellow Vault](https://immunefi.com/boost/boost-lido/information/) | Soon | Soon | Soon | August 2024 |
 | 31 |[ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Interoperability protocol | 2 H, 7 M, 5 L (5th place 🏆) | Soon | August 2024 |
