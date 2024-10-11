@@ -24,6 +24,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 13|[Soon]() | Soon | Soon | Soon | October 2024 |
 | 12|[Soon]() | Soon | Soon | Soon | October 2024 |
 | 11|[Soon]() | Soon | Soon | Soon | October 2024 |
 | 10|[Origami](https://origami.finance/) | ERC-4626 Vault powered by SKY vaults and CoWProtocol | Soon | Soon | September 2024 |
