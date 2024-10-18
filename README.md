@@ -28,7 +28,7 @@ If you have any questions or are seeking a security review for your project, fee
 | 13|[Soon]() | Soon | Soon | Soon | October 2024 |
 | 12|[AlienX](https://xlr8r-build.gitbook.io/alienx) | ERC20, BuyAndBurn | 1 C, 1 H, 9 L | [Report](/reports/private/AlienX-Security-Review.pdf) | October 2024 |
 | 11|[Soon]() | Soon | Soon | Soon | October 2024 |
-| 10|[Origami](https://origami.finance/) | ERC-4626 Vault powered by SKY vaults and CoWProtocol | Soon | Soon | September 2024 |
+| 10|[Origami](https://origami.finance/) | ERC-4626 Vault powered by SKY vaults and CoWProtocol | 1 M, 7 L | [Report](/reports/private/Origami-Security-Review.pdf) | September 2024 |
 | 9 |[Element280](https://docs.helios-hlx.win/element280) | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens | 2 C, 2 H, 3 M, 8 L | [Report](/reports/private/Element280-Security-Review.pdf) | September 2024 |
 | 8 |[YetiApes](https://www.yetiapes.xyz/) | DualToken Staking | Soon | Soon | September 2024 |
 | 7 |[OmniNFT - Second Review](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 1 C, 1 H, 3 M, 3 L | [Report](/reports/private/OmniNFT-Second-Security-Review.pdf) | June 2024 |
