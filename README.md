@@ -24,6 +24,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 16|[Soon]() | Soon | Soon | Soon | October 2024 |
 | 15|[Soon]() | Soon | Soon | Soon | October 2024 |
 | 14|[Lotus](https://docs.lotus.win/) | ERC20, BuyAndBurn, Staking with custom rewards | 3 L | [Report](/reports/private/Lotus-Security-Review.pdf) | October 2024 |
 | 13|[SCALE]() | Soon | Soon | Soon | October 2024 |
