@@ -45,9 +45,8 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 34 |[Superposition](https://code4rena.com/audits/2024-08-superposition) | Uniswap V3 on Rust | 4 H, 1 M, 5 L | Soon | September 2024 |
-| 33 |[Chakra](https://code4rena.com/audits/2024-08-chakra) | Soon | Soon | Soon | September 2024 |
-| 32 |[Lido: Mellow Vault](https://immunefi.com/boost/boost-lido/information/) | Soon | Soon | Soon | August 2024 |
+| 33 |[Superposition](https://code4rena.com/audits/2024-08-superposition) | Uniswap V3 on Rust | 4 H, 1 M, 5 L | Soon | September 2024 |
+| 32 |[Chakra](https://code4rena.com/audits/2024-08-chakra) | Soon | Soon | Soon | September 2024 |
 | 31 |[ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Interoperability protocol | 2 H, 7 M, 5 L (5th place 🏆) | Soon | August 2024 |
 | 30 |[ArkProject](https://codehawks.cyfrin.io/c/2024-07-ark-project) | Soon | Soon | Soon | August 2024 |
 | 29 |[Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros) | Perpetuals DEX powered by Boosted (Re)Staking Vaults | 5 H, 2 M, 7 L (6th place) | Soon | July 2024 |
