@@ -24,6 +24,8 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 19|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
+| 18|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
 | 17|[TempleDao - TPI Drip](https://templedao.link/) | Token Treasury, Price Index | - | [Report](/reports/private/TempleDao-TPI-Security-Review.pdf) | October 2024 |
 | 16|[Janus PLS](https://docs.helios-hlx.win/helios/additional-projects/janus) | Token distribution, Pulsechain | 1 C, 1 H, 4 L | [Report](/reports/private/Janus-PLS-Security-Review.pdf) | October 2024 |
 | 15|[Voyage](/) | ERC20, Staking, Vesting, Vaults | Soon | Soon | October 2024 |
