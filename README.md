@@ -24,25 +24,24 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 19|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
 | 18|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
-| 17|[TempleDao - TPI Drip](https://templedao.link/) | Token Treasury, Price Index | - | [Report](/reports/private/TempleDao-TPI-Security-Review.pdf) | October 2024 |
-| 16|[Janus PLS](https://docs.helios-hlx.win/helios/additional-projects/janus) | Token distribution, Pulsechain | 1 C, 1 H, 4 L | [Report](/reports/private/Janus-PLS-Security-Review.pdf) | October 2024 |
-| 15|[Voyage](/) | ERC20, Staking, Vesting, Vaults | Soon | Soon | October 2024 |
-| 14|[Lotus](https://docs.lotus.win/) | ERC20, BuyAndBurn, Staking with custom rewards | 3 L | [Report](/reports/private/Lotus-Security-Review.pdf) | October 2024 |
-| 13|[SCALE](https://zibars-organization.gitbook.io/scale) | ERC20, Reflection token, BuyAndBurn aggregating other ecosystem tokens built on DragonX | 2 C, 2 H, 1 M, 5 L | [Report](/reports/private/SCALE-Security-Review.pdf) | October 2024 |
-| 12|[AlienX](https://xlr8r-build.gitbook.io/alienx) | ERC20, BuyAndBurn | 1 C, 1 H, 9 L | [Report](/reports/private/AlienX-Security-Review.pdf) | October 2024 |
-| 11|[Titan Legends]() | Soon | Soon | Soon | October 2024 |
-| 10|[Origami](https://origami.finance/) | ERC-4626 Vault powered by SKY vaults and CoWProtocol | 1 M, 7 L | [Report](/reports/private/Origami-Security-Review.pdf) | September 2024 |
-| 9 |[Element280](https://docs.helios-hlx.win/element280) | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens | 2 C, 2 H, 3 M, 8 L | [Report](/reports/private/Element280-Security-Review.pdf) | September 2024 |
-| 8 |[YetiApes](https://www.yetiapes.xyz/) | DualToken Staking | Soon | Soon | September 2024 |
-| 7 |[OmniNFT - Second Review](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 1 C, 1 H, 3 M, 3 L | [Report](/reports/private/OmniNFT-Second-Security-Review.pdf) | June 2024 |
-| 6 |[OmniNFT](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 2 C, 1 H, 7 M, 3 L | [Report](/reports/private/OmniNFT-Security-Review.pdf) | June 2024 |
-| 5 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
-| 4 |[EnderProtocol](https://www.enderprotocol.io/) | Bonds combined with Liquid Staking Power | 2 H, 5 M, 9 L | [Report](/reports/private/Ender-Protocol-Security-Review.pdf) | May 2024 |
-| 3 |[Zero-G Finance](https://zerog.finance/) | Liquid Restaking protocol (KelpDAO fork) allowing depositing of multiple LST and Native ETH | 2 H, 3 M, 7 L | [Report](/reports/private/Zero-G-Finance-Security-Review.pdf) |	April 2024 |
-| 2 |[Lila Finance](https://www.lila.finance/) | Yield Farm protocol |  2 C, 3 H, 5M, 17 L | [Report](/reports/private/Lila-Finance-Report.pdf) | February 2024 |
-| 1 |[KINGX](https://kingx.titanxmarket.win/) | ERC20 Token | 2 C, 3 M, 10 L | [Report](/reports/private/KINGX-Security-Review.pdf) |	February 2024 |
+| 17|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
+| 16|[TempleDao - TPI Drip](https://templedao.link/) | Token Treasury, Price Index | - | [Report](/reports/private/TempleDao-TPI-Security-Review.pdf) | October 2024 |
+| 15|[Janus PLS](https://docs.helios-hlx.win/helios/additional-projects/janus) | Token distribution, Pulsechain | 1 C, 1 H, 4 L | [Report](/reports/private/Janus-PLS-Security-Review.pdf) | October 2024 |
+| 14|[Voyage](/) | ERC20, Staking, Vesting, Vaults | Soon | Soon | October 2024 |
+| 13|[Lotus](https://docs.lotus.win/) | ERC20, BuyAndBurn, Staking with custom rewards | 3 L | [Report](/reports/private/Lotus-Security-Review.pdf) | October 2024 |
+| 12|[SCALE](https://zibars-organization.gitbook.io/scale) | ERC20, Reflection token, BuyAndBurn aggregating other ecosystem tokens built on DragonX | 2 C, 2 H, 1 M, 5 L | [Report](/reports/private/SCALE-Security-Review.pdf) | October 2024 |
+| 11|[AlienX](https://xlr8r-build.gitbook.io/alienx) | ERC20, BuyAndBurn | 1 C, 1 H, 9 L | [Report](/reports/private/AlienX-Security-Review.pdf) | October 2024 |
+| 10|[Titan Legends]() | Soon | Soon | Soon | October 2024 |
+| 9 |[Origami](https://origami.finance/) | ERC-4626 Vault powered by SKY vaults and CoWProtocol | 1 M, 7 L | [Report](/reports/private/Origami-Security-Review.pdf) | September 2024 |
+| 8 |[Element280](https://docs.helios-hlx.win/element280) | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens | 2 C, 2 H, 3 M, 8 L | [Report](/reports/private/Element280-Security-Review.pdf) | September 2024 |
+| 7 |[YetiApes](https://www.yetiapes.xyz/) | DualToken Staking | Soon | Soon | September 2024 |
+| 6 |[OmniNFT - Second Review](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 1 C, 1 H, 3 M, 3 L | [Report](/reports/private/OmniNFT-Second-Security-Review.pdf) | June 2024 |
+| 5 |[OmniNFT](https://www.omnicat.xyz/) | Cross-chain NFT, allowing minting, burning, and transferring, by locking OmniCat (cross-chain token) | 2 C, 1 H, 7 M, 3 L | [Report](/reports/private/OmniNFT-Security-Review.pdf) | June 2024 |
+| 4 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | Staking contract allowing users to boost token yield | 1 C, 3 L | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | June 2024 |
+| 3 |[EnderProtocol](https://www.enderprotocol.io/) | Bonds combined with Liquid Staking Power | 2 H, 5 M, 9 L | [Report](/reports/private/Ender-Protocol-Security-Review.pdf) | May 2024 |
+| 2 |[Zero-G Finance](https://zerog.finance/) | Liquid Restaking protocol (KelpDAO fork) allowing depositing of multiple LST and Native ETH | 2 H, 3 M, 7 L | [Report](/reports/private/Zero-G-Finance-Security-Review.pdf) |	April 2024 |
+| 1 |[Lila Finance](https://www.lila.finance/) | Yield Farm protocol |  2 C, 3 H, 5M, 17 L | [Report](/reports/private/Lila-Finance-Report.pdf) | February 2024 |
 
 ### Public Competitions
 
