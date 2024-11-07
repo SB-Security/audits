@@ -25,10 +25,10 @@ If you have any questions or are seeking a security review for your project, fee
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
 | 18|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
-| 17|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
+| 17|[JakeX Universe](https://www.jakex.win/) | NFT | 2 M, 2 L | [Report](/reports/private/JakeXUniverse-Security-Review.pdf) | November 2024 |
 | 16|[TempleDao - TPI Drip](https://templedao.link/) | Token Treasury, Price Index | - | [Report](/reports/private/TempleDao-TPI-Security-Review.pdf) | October 2024 |
 | 15|[Janus PLS](https://docs.helios-hlx.win/helios/additional-projects/janus) | Token distribution, Pulsechain | 1 C, 1 H, 4 L | [Report](/reports/private/Janus-PLS-Security-Review.pdf) | October 2024 |
-| 14|[Voyage](/) | ERC20, Staking, Vesting, Vaults | Soon | Soon | October 2024 |
+| 14|[Voyage](https://voyage.gitbook.io/voyage) | ERC20, Staking, Vesting, Vaults | 6 M, 6 L | [Report](/reports/private/Voyage-Security-Review.pdf) | October 2024 |
 | 13|[Lotus](https://docs.lotus.win/) | ERC20, BuyAndBurn, Staking with custom rewards | 3 L | [Report](/reports/private/Lotus-Security-Review.pdf) | October 2024 |
 | 12|[SCALE](https://zibars-organization.gitbook.io/scale) | ERC20, Reflection token, BuyAndBurn aggregating other ecosystem tokens built on DragonX | 2 C, 2 H, 1 M, 5 L | [Report](/reports/private/SCALE-Security-Review.pdf) | October 2024 |
 | 11|[AlienX](https://xlr8r-build.gitbook.io/alienx) | ERC20, BuyAndBurn | 1 C, 1 H, 9 L | [Report](/reports/private/AlienX-Security-Review.pdf) | October 2024 |
