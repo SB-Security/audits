@@ -24,7 +24,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 20|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
+| 20|[AwesomeX Hybrid NFT](https://docs.awesomex.win/awesomex-hybrid-nfts/awesomex-hybrid-nfts) | NFT | 1 L | [Soon]() | November 2024 |
 | 19|[E369](https://docs.helios-hlx.win/element-369) | NFT, Auction | 2 H, 2 M | [Soon]() | November 2024 |
 | 18|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
 | 17|[JakeX Universe](https://www.jakex.win/) | NFT | 2 M, 2 L | [Report](/reports/private/JakeXUniverse-Security-Review.pdf) | November 2024 |
