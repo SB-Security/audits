@@ -35,7 +35,7 @@ If you have any questions or are seeking a security review for your project, fee
 | 13|[Lotus](https://docs.lotus.win/) | ERC20, BuyAndBurn, Staking with custom rewards | 3 L | [Report](/reports/private/Lotus-Security-Review.pdf) | October 2024 |
 | 12|[SCALE](https://zibars-organization.gitbook.io/scale) | ERC20, Reflection token, BuyAndBurn aggregating other ecosystem tokens built on DragonX | 2 C, 2 H, 1 M, 5 L | [Report](/reports/private/SCALE-Security-Review.pdf) | October 2024 |
 | 11|[AlienX](https://xlr8r-build.gitbook.io/alienx) | ERC20, BuyAndBurn | 1 C, 1 H, 9 L | [Report](/reports/private/AlienX-Security-Review.pdf) | October 2024 |
-| 10|[Titan Legends]() | Soon | Soon | Soon | October 2024 |
+| 10|[Titan Legends]() | JakeX Backed NFT | 3 M | [Report](https://github.com/SB-Security/audits/blob/master/reports/private/Titan%20Legends%20-%20Warlords%20Security%20Review%20-%20SBSecurity.pdf) | October 2024 |
 | 9 |[Origami](https://origami.finance/) | ERC-4626 Vault powered by SKY vaults and CoWProtocol | 1 M, 7 L | [Report](/reports/private/Origami-Security-Review.pdf) | September 2024 |
 | 8 |[Element280](https://docs.helios-hlx.win/element280) | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens | 2 C, 2 H, 3 M, 8 L | [Report](/reports/private/Element280-Security-Review.pdf) | September 2024 |
 | 7 |[YetiApes](https://www.yetiapes.xyz/) | DualToken Staking | Soon | Soon | September 2024 |
