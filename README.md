@@ -29,7 +29,7 @@ If you have any questions or are seeking a security review for your project, fee
 | 22|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
 | 21|[AwesomeX Hybrid NFT](https://docs.awesomex.win/awesomex-hybrid-nfts/awesomex-hybrid-nfts) | NFT | 1 L | [Report](/reports/private/AwesomeX-Hybrid-NFT-Security-Review.pdf) | November 2024 |
 | 20|[Element369](https://docs.helios-hlx.win/element-369) | NFT, Auction | 2 H, 2 M | [Report](/reports/private/Element369-Security-Review.pdf) | November 2024 |
-| 19|[Soon]() | Soon | Soon | [Soon]() | November 2024 |
+| 19|[FeliX](https://felix-protocol.gitbook.io/) | ERC20, BuyAndBurn, NFT, Randomized rewards | 1 C, 1 H, 4 M, 2 L | [Report](/reports/private/FeliX-Security-Review.pdf) | November 2024 |
 | 18|[Eden](https://eden-2.gitbook.io/eden) | ERC20, BuyAndBurn, Staking with custom rewards | 5 L | [Report](/reports/private/Eden-Security-Review.pdf) | November 2024 |
 | 17|[JakeX Universe](https://www.jakex.win/) | NFT | 2 M, 2 L | [Report](/reports/private/JakeXUniverse-Security-Review.pdf) | November 2024 |
 | 16|[TempleDao - TPI Drip](https://templedao.link/) | Token Treasury, Price Index | - | [Report](/reports/private/TempleDao-TPI-Security-Review.pdf) | October 2024 |
