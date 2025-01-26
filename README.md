@@ -27,7 +27,7 @@ If you have any questions or are seeking a security review for your project, fee
 | 27|[fMoney Market](https://www.fmoney.market/lending) | CompoundV2 fork | Soon | [Soon]() | January 2025 |
 | 26|[Helios Staking V2](https://app.helios.win/) | Staking | 1 C, 1 M, 4 L | [Report](/reports/private/HeliosStakingV2-Security-Review.pdf) | January 2025 |
 | 25|[Mizuchi]() | Soon | Soon | [Soon]() | December 2024 |
-| 24|[LiquidMint]() | Soon | Soon | [Soon]() | December 2024 |
+| 24|[LiquidMint](https://liquidmint.xyz/) | Diamond proxy, NFT renting | 4 C, 8 H, 4 M, 17 L | [Report](/reports/private/LiquidMint-Security-Review.pdf) | December 2024 |
 | 23|[LegendX BuyAndBurn](https://www.titanlegends.win/) | BuyAndBurn | 1 L | [Report](/reports/private/TitanLegends-BnB-Security-Review.pdf) | December 2024 |
 | 22|[Stax](https://element280.win/) | ERC20, NFT, Staking aggregating other ecosystem stakings | 1 H, 11 M, 23 L | [Report](/reports/private/Stax-Security-Review.pdf) | November 2024 |
 | 21|[AwesomeX Hybrid NFT](https://docs.awesomex.win/awesomex-hybrid-nfts/awesomex-hybrid-nfts) | NFT | 1 L | [Report](/reports/private/AwesomeX-Hybrid-NFT-Security-Review.pdf) | November 2024 |
