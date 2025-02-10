@@ -24,6 +24,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 28|[Uranus](https://uranus28.win/) | ERC20, Reflection token, BuyAndBurn | 1 C, 6 L | [Report](/reports/private/Uranus-Security-Review.pdf) | February 2025 |
 | 27|[fMoney Market](https://www.fmoney.market/lending) | CompoundV2 fork | Soon | [Soon]() | January 2025 |
 | 26|[Helios Staking V2](https://app.helios.win/) | Staking | 1 C, 1 M, 4 L | [Report](/reports/private/HeliosStakingV2-Security-Review.pdf) | January 2025 |
 | 25|[Mizuchi]() | Soon | Soon | [Soon]() | December 2024 |
