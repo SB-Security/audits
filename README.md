@@ -24,6 +24,8 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 30|[S88, E280, H420, B88]() | LayerZero V2 OFT tokens | Soon | [Soon]() | March 2025 |
+| 30|[BeeBribes]() | Berachain Community Staking | Soon | [Soon]() | March 2025 |
 | 29|[Sparta]() | ERC20 | Soon | [Soon]() | February 2025 |
 | 28|[Uranus](https://uranus28.win/) | ERC20, Reflection token, BuyAndBurn | 1 C, 6 L | [Report](/reports/private/Uranus-Security-Review.pdf) | February 2025 |
 | 27|[fMoney Market](https://www.fmoney.market/lending) | CompoundV2 fork | Soon | [Soon]() | January 2025 |
