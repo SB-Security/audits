@@ -26,10 +26,10 @@ If you have any questions or are seeking a security review for your project, fee
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
 | 34|[SmokeRing]() | Memecoin with reflections | Soon | [Soon]() | April 2025 |
 | 33|[H420 BnBV2]() | BuyBurn Module | Soon | [Soon]() | April 2025 |
-| 32|[RootsFi]() | CDP Stablecoin on Berachain | Soon | [Soon]() | March 2025 |
-| 31|[S88, E280, H420, B88]() | LayerZero V2 OFT tokens | Soon | [Soon]() | March 2025 |
-| 30|[BeeBribes]() | Berachain Community Staking | Soon | [Soon]() | March 2025 |
-| 29|[Sparta]() | ERC20 | Soon | [Soon]() | February 2025 |
+| 32|[RootsFi](https://rootsfi.com/) | CDP Stablecoin on Berachain | Soon | [Soon]() | March 2025 |
+| 31|[S88, E280, H420, B88](https://element280.win/) | LayerZero V2 OFT tokens | Soon | [Report](/reports/private/Omnichain%20Security%20Review%20-%20SBSecurity.pdf) | March 2025 |
+| 30|[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | Berachain Community Staking | Soon | [Soon]() | March 2025 |
+| 29|[Sparta]() | ERC20 | Soon | [Report](/reports/private/Sparta%20Security%20Review%20-%20SBSecurity.pdf) | February 2025 |
 | 28|[Uranus](https://uranus28.win/) | Memecoin with reflections | 1 C, 6 L | [Report](/reports/private/Uranus-Security-Review.pdf) | February 2025 |
 | 27|[fMoney Market](https://www.fmoney.market/lending) | CompoundV2 fork | Soon | [Report](/reports/private/fMoney%20Security%20Review%20-%20SBSecurity.pdf) | January 2025 |
 | 26|[Helios Staking V2](https://app.helios.win/) | Staking | 1 C, 1 M, 4 L | [Report](/reports/private/HeliosStakingV2-Security-Review.pdf) | January 2025 |
