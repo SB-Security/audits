@@ -24,16 +24,16 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 34|[SmokeRing]() | Memecoin with reflections | Soon | [Soon]() | April 2025 |
-| 33|[H420 BnBV2]() | BuyBurn Module | Soon | [Soon]() | April 2025 |
-| 32|[RootsFi](https://rootsfi.com/) | CDP Stablecoin on Berachain | Soon | [Soon](/reports/private/RootsFi-Security-Review.pdf) | March 2025 |
-| 31|[S88, E280, H420, B88](https://element280.win/) | LayerZero V2 OFT tokens | Soon | [Report](/reports/private/Omnichain%20Security%20Review%20-%20SBSecurity.pdf) | March 2025 |
-| 30|[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | Berachain Community Staking | Soon | [Soon]() | March 2025 |
-| 29|[Sparta]() | ERC20 | Soon | [Report](/reports/private/Sparta%20Security%20Review%20-%20SBSecurity.pdf) | February 2025 |
+| 34|[SmokeRing]() | Memecoin with reflections | - | [Report](/reports/private/Smoke-Ring-Security-Review.pdf) | April 2025 |
+| 33|[H420 BnBV2]() | BuyBurn Module | 1 L | [Report](/reports/private/H420-Security-Review.pdf) | April 2025 |
+| 32|[RootsFi](https://rootsfi.com/) | CDP Stablecoin on Berachain | 3 H, 7 M, 10 L | [Report](/reports/private/RootsFi-Security-Review.pdf) | March 2025 |
+| 31|[S88, E280, H420, B88](https://element280.win/) | LayerZero V2 OFT tokens | 11 L | [Report](/reports/private/Omnichain-Security-Review.pdf) | March 2025 |
+| 30|[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | Berachain Community Staking | 3 H, 3 M, 6 L | [Report](/reports/private/BeeBribes-Security-Review.pdf) | March 2025 |
+| 29|[Sparta]() | ERC20 | Soon | [Report](/reports/private/Sparta-Security-Review.pdf) | February 2025 |
 | 28|[Uranus](https://uranus28.win/) | Memecoin with reflections | 1 C, 6 L | [Report](/reports/private/Uranus-Security-Review.pdf) | February 2025 |
-| 27|[fMoney Market](https://www.fmoney.market/lending) | CompoundV2 fork | Soon | [Report](/reports/private/fMoney%20Security%20Review%20-%20SBSecurity.pdf) | January 2025 |
+| 27|[fMoney Market](https://www.fmoney.market/lending) | CompoundV2 fork | Soon | [Report](/reports/private/fMoney-Security-Review.pdf) | January 2025 |
 | 26|[Helios Staking V2](https://app.helios.win/) | Staking | 1 C, 1 M, 4 L | [Report](/reports/private/HeliosStakingV2-Security-Review.pdf) | January 2025 |
-| 25|[Mizuchi]() | TitanX Perpetual Auctions | Soon | [Soon]() | December 2024 |
+| 25|[Mizuchi]() | TitanX Perpetual Auctions | 2 H, 8 M, 30 L | [Report](/reports/private/Mizuchi-Security-Review.pdf) | December 2024 |
 | 24|[LiquidMint](https://liquidmint.xyz/) | Diamond proxy, NFT renting | 4 C, 8 H, 4 M, 17 L | [Report](/reports/private/LiquidMint-Security-Review.pdf) | December 2024 |
 | 23|[LegendX BuyAndBurn](https://www.titanlegends.win/) | BuyAndBurn | 1 L | [Report](/reports/private/TitanLegends-BnB-Security-Review.pdf) | December 2024 |
 | 22|[Stax](https://element280.win/) | ERC20, NFT, Staking aggregating other ecosystem stakings | 1 H, 11 M, 23 L | [Report](/reports/private/Stax-Security-Review.pdf) | November 2024 |
@@ -48,7 +48,7 @@ If you have any questions or are seeking a security review for your project, fee
 | 13|[Lotus](https://docs.lotus.win/) | ERC20, BuyAndBurn, Staking with custom rewards | 3 L | [Report](/reports/private/Lotus-Security-Review.pdf) | October 2024 |
 | 12|[SCALE](https://zibars-organization.gitbook.io/scale) | ERC20, Reflection token, BuyAndBurn aggregating other ecosystem tokens built on DragonX | 2 C, 2 H, 1 M, 5 L | [Report](/reports/private/SCALE-Security-Review.pdf) | October 2024 |
 | 11|[AlienX](https://xlr8r-build.gitbook.io/alienx) | ERC20, BuyAndBurn | 1 C, 1 H, 9 L | [Report](/reports/private/AlienX-Security-Review.pdf) | October 2024 |
-| 10|[Titan Legends]() | JakeX Backed NFT | 3 M | [Report](https://github.com/SB-Security/audits/blob/master/reports/private/Titan%20Legends%20-%20Warlords%20Security%20Review%20-%20SBSecurity.pdf) | October 2024 |
+| 10|[Titan Legends]() | JakeX Backed NFT | 3 M | [Report](/reports/private/Titan%20Legends-Warlords-Security-Review.pdf) | October 2024 |
 | 9 |[Origami](https://origami.finance/) | ERC-4626 Vault powered by SKY vaults and CoWProtocol | 1 M, 7 L | [Report](/reports/private/Origami-Security-Review.pdf) | September 2024 |
 | 8 |[Element280](https://docs.helios-hlx.win/element280) | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens | 2 C, 2 H, 3 M, 8 L | [Report](/reports/private/Element280-Security-Review.pdf) | September 2024 |
 | 7 |[YetiApes](https://www.yetiapes.xyz/) | DualToken Staking | Soon | Soon | September 2024 |
