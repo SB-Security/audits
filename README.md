@@ -29,9 +29,9 @@ If you have any questions or are seeking a security review for your project, fee
 | 32|[RootsFi](https://rootsfi.com/) | CDP Stablecoin on Berachain | 3 H, 7 M, 10 L | [Report](/reports/private/RootsFi-Security-Review.pdf) | March 2025 |
 | 31|[S88, E280, H420, B88](https://element280.win/) | LayerZero V2 OFT tokens | 11 L | [Report](/reports/private/Omnichain-Security-Review.pdf) | March 2025 |
 | 30|[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | Berachain Community Staking | 3 H, 3 M, 6 L | [Report](/reports/private/BeeBribes-Security-Review.pdf) | March 2025 |
-| 29|[Sparta]() | ERC20 | Soon | [Report](/reports/private/Sparta-Security-Review.pdf) | February 2025 |
+| 29|[Sparta]() | ERC20 | 1 M, 4 L | [Report](/reports/private/Sparta-Security-Review.pdf) | February 2025 |
 | 28|[Uranus](https://uranus28.win/) | Memecoin with reflections | 1 C, 6 L | [Report](/reports/private/Uranus-Security-Review.pdf) | February 2025 |
-| 27|[fMoney Market](https://www.fmoney.market/lending) | CompoundV2 fork | Soon | [Report](/reports/private/fMoney-Security-Review.pdf) | January 2025 |
+| 27|[fMoney Market](https://www.fmoney.market/lending) | CompoundV2 fork | 1 M | [Report](/reports/private/fMoney-Security-Review.pdf) | January 2025 |
 | 26|[Helios Staking V2](https://app.helios.win/) | Staking | 1 C, 1 M, 4 L | [Report](/reports/private/HeliosStakingV2-Security-Review.pdf) | January 2025 |
 | 25|[Mizuchi]() | TitanX Perpetual Auctions | 2 H, 8 M, 30 L | [Report](/reports/private/Mizuchi-Security-Review.pdf) | December 2024 |
 | 24|[LiquidMint](https://liquidmint.xyz/) | Diamond proxy, NFT renting | 4 C, 8 H, 4 M, 17 L | [Report](/reports/private/LiquidMint-Security-Review.pdf) | December 2024 |
