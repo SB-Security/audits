@@ -24,8 +24,9 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 34|[SmokeRing]() | Memecoin with reflections | - | [Report](/reports/private/Smoke-Ring-Security-Review.pdf) | April 2025 |
-| 33|[H420 BnBV2]() | BuyBurn Module | 1 L | [Report](/reports/private/H420-Security-Review.pdf) | April 2025 |
+| 34|[Tierra](https://www.tierra.live/) | Fundraising | 1 M, 5 L | [Report](/reports/private/Tierra-Security-Review.pdf) | April 2025 |
+| 34|[SmokeRing](https://uranus28.win/) | Memecoin with reflections | - | [Report](/reports/private/Smoke-Ring-Security-Review.pdf) | April 2025 |
+| 33|[H420 BnBV2](https://helios.win/) | BuyBurn Module | 1 L | [Report](/reports/private/H420-Security-Review.pdf) | April 2025 |
 | 32|[RootsFi](https://rootsfi.com/) | CDP Stablecoin on Berachain | 3 H, 7 M, 10 L | [Report](/reports/private/RootsFi-Security-Review.pdf) | March 2025 |
 | 31|[S88, E280, H420, B88](https://element280.win/) | LayerZero V2 OFT tokens | 11 L | [Report](/reports/private/Omnichain-Security-Review.pdf) | March 2025 |
 | 30|[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | Berachain Community Staking | 3 H, 3 M, 6 L | [Report](/reports/private/BeeBribes-Security-Review.pdf) | March 2025 |
