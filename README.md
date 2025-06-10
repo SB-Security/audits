@@ -24,6 +24,8 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 36|[Kettle.Shop](https://kettle.shop/) | Soulbound NFT mystery boxes | 1 M, 3 L | [Soon]() | May 2025 |
+| 35|[E280 NFT](https://element280.win/) | Element280's ONFT built with LayerZero | 1 M, 5 L | [Soon]() | May 2025 |
 | 34|[Tierra](https://www.tierra.live/) | Fundraising | 1 M, 5 L | [Report](/reports/private/Tierra-Security-Review.pdf) | April 2025 |
 | 34|[SmokeRing](https://uranus28.win/) | Memecoin with reflections | - | [Report](/reports/private/Smoke-Ring-Security-Review.pdf) | April 2025 |
 | 33|[H420 BnBV2](https://helios.win/) | BuyBurn Module | 1 L | [Report](/reports/private/H420-Security-Review.pdf) | April 2025 |
