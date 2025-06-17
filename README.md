@@ -24,6 +24,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |  | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 38|[E280-BSC](/) | NFT, LP Injector | Soon | [Soon](/) | June 2025 |
 | 37|[SmokeRing-OFT](/) | Memecoin with reflections - OFT version | - | [Report](/reports/private/Smoke-Ring-OFT-Security-Review.pdf) | June 2025 |
 | 36|[Kettle.Shop](https://kettle.shop/) | Soulbound NFT mystery boxes | 1 M, 3 L | [Report](/reports/private/Kettle-Mystery-Box-Security-Review.pdf) | June 2025 |
 | 35|[E280 NFT](https://element280.win/) | Element280's ONFT built with LayerZero | 1 M, 5 L | [Report](/reports/private/E280-NFT-Security-Review.pdf) | May 2025 |
