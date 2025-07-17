@@ -18,8 +18,8 @@ If you have any questions or are seeking a security review for your project, rea
 
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
-|[Origami Finance](https://origami.finance/) | [Report](/reports/private/Origami-Security-Review.pdf) | ERC-4626 Vault powered by SKY vaults and CoWProtocol <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
-|[RootsFi](https://rootsfi.com/) | [Report](/reports/private/RootsFi-Security-Review.pdf) | CDP Stablecoin <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
+|[Origami Finance](https://origami.finance/) | [Report](/reports/private/Origami-Security-Review.pdf) | ERC-4626 Vault powered by SKY vaults and CoWProtocol - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
+|[RootsFi](https://rootsfi.com/) | [Report](/reports/private/RootsFi-Security-Review.pdf) | CDP Stablecoin - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
 |[OmniNFT](https://www.omnicat.xyz/) | [Report #1](/reports/private/OmniNFT-Security-Review.pdf), [Report #2](/reports/private/OmniNFT-Second-Security-Review.pdf)  | Cross-chain NFT |
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/private/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
 |[Mizuchi]()  | [Report](/reports/private/Mizuchi-Security-Review.pdf) | Perpetual Auctions  |
@@ -32,7 +32,7 @@ If you have any questions or are seeking a security review for your project, rea
 | [EnderProtocol](https://www.enderprotocol.io/) | [Report](/reports/private/Ender-Protocol-Security-Review.pdf) | Bonds/Liquid Staking |
 | [CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | Staking |
 | [Helios Staking V2](https://app.helios.win/) | [Report](/reports/private/HeliosStakingV2-Security-Review.pdf) | Staking  |
-| [BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | [Report](/reports/private/BeeBribes-Security-Review.pdf) | Community Staking <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" />  |
+| [BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | [Report](/reports/private/BeeBribes-Security-Review.pdf) | Community Staking - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" />  |
 
 ## Tokens/Asset Managments
 
@@ -40,7 +40,7 @@ If you have any questions or are seeking a security review for your project, rea
 |-----------------|----------------|------------------|
 | [Element280](https://docs.helios-hlx.win/element280) | [Report #1](/reports/private/Element280-Security-Review.pdf)  | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens  |
 | [S88, E280, H420, B88](https://docs.helios-hlx.win/element280) | [Report #1](/reports/private/Omnichain-Security-Review.pdf), [Report #2](/reports/private/H420-Security-Review.pdf), [Report #3](/reports/private/E280-NFT-Security-Review.pdf), [Report #4](/reports/private/E280-BNB-Security-Review.pdf)  | LayerZero V2 OFT tokens  |
-| [Kettle.Shop](https://kettle.shop/) | [Report](/reports/private/Kettle-Mystery-Box-Security-Review.pdf) | Soulbound NFT mystery boxes	 <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
+| [Kettle.Shop](https://kettle.shop/) | [Report](/reports/private/Kettle-Mystery-Box-Security-Review.pdf) | Soulbound NFT mystery boxes	- <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
 | [TempleDao - TPI Drip](https://templedao.link/) | [Report](/reports/private/TempleDao-TPI-Security-Review.pdf) | Token Treasury, Price Index |
 | [Voyage](https://voyage.gitbook.io/voyage) | [Report](/reports/private/Voyage-Security-Review.pdf) | ERC20, Staking, Vesting, Vaults |
 | [AlienX](https://xlr8r-build.gitbook.io/alienx) | [Report](/reports/private/AlienX-Security-Review.pdf) | ERC20, BuyAndBurn   |
