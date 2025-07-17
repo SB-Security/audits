@@ -53,9 +53,9 @@ If you have any questions or are seeking a security review for your project, rea
 | [AwesomeX Hybrid NFT](https://docs.awesomex.win/awesomex-hybrid-nfts/awesomex-hybrid-nfts) | [Report](/reports/private/AwesomeX-Hybrid-NFT-Security-Review.pdf) | <img height="20" src="https://img.shields.io/badge/TitanX-1fb356?style=flat" /> |
 | [Element369](https://docs.helios-hlx.win/element-369) | [Report](/reports/private/Element369-Security-Review.pdf) | <img height="20" src="https://img.shields.io/badge/TitanX-1fb356?style=flat" /> |
 | [JakeX Universe](https://www.jakex.win/) | [Report](/reports/private/JakeXUniverse-Security-Review.pdf) | <img height="20" src="https://img.shields.io/badge/TitanX-1fb356?style=flat" /> |
-| [Janus PLS](https://docs.helios-hlx.win/helios/additional-projects/janus) | [Report](/reports/private/Janus-PLS-Security-Review.pdf) | <img height="20" src="https://img.shields.io/badge/PulseChain-b80b96?style=flat" /> |
+| [Janus PLS](https://docs.helios-hlx.win/helios/additional-projects/janus) | [Report](/reports/private/Janus-PLS-Security-Review.pdf) | |
 | [Titan Legends]() | [Report #1](/reports/private/Titan%20Legends-Warlords-Security-Review.pdf), [Report #2](/reports/private/TitanLegends-BnB-Security-Review.pdf) | <img height="20" src="https://img.shields.io/badge/TitanX-1fb356?style=flat" /> |
-| [Sparta]() | [Report](/reports/private/Sparta-Security-Review.pdf) | <img height="20" src="https://img.shields.io/badge/PulseChain-b80b96?style=flat" /> |
+| [Sparta]() | [Report](/reports/private/Sparta-Security-Review.pdf) | |
 
 ## Others
 | **Protocol** | Report | Ecosystem |
