@@ -20,6 +20,7 @@ If you have any questions or are seeking a security review for your project, rea
 |-----------------|----------------|------------------|
 |[Origami Finance](https://origami.finance/) | [Report](/reports/private/Origami-Security-Review.pdf) | ERC-4626 Vault powered by SKY vaults and CoWProtocol - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
 |[RootsFi](https://rootsfi.com/) | [Report](/reports/private/RootsFi-Security-Review.pdf) | CDP Stablecoin - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
+|[CrediFi](https://www.credi.fi/) | [Report](/reports/private/Credifi-Security-Review.pdf) | Onchain credit protocol - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
 |[OmniNFT](https://www.omnicat.xyz/) | [Report #1](/reports/private/OmniNFT-Security-Review.pdf), [Report #2](/reports/private/OmniNFT-Second-Security-Review.pdf)  | Cross-chain NFT |
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/private/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
 |[Mizuchi]()  | [Report](/reports/private/Mizuchi-Security-Review.pdf) | Perpetual Auctions  |
