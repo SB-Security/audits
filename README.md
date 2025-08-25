@@ -39,6 +39,7 @@ If you have any questions or are seeking a security review for your project, rea
 
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
+|[Shift Protocol](https://shiftprotocol.xyz/) | [Report](/reports/private/ShiftProtocol-Security-Review.pdf) | ERC4626, Asset Management |
 | [Element280](https://docs.helios-hlx.win/element280) | [Report #1](/reports/private/Element280-Security-Review.pdf)  | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens  |
 | [S88, E280, H420, B88](https://docs.helios-hlx.win/element280) | [Report #1](/reports/private/Omnichain-Security-Review.pdf), [Report #2](/reports/private/H420-Security-Review.pdf), [Report #3](/reports/private/E280-NFT-Security-Review.pdf), [Report #4](/reports/private/E280-BNB-Security-Review.pdf)  | LayerZero V2 OFT tokens  |
 | [Kettle.Shop](https://kettle.shop/) | [Report](/reports/private/Kettle-Mystery-Box-Security-Review.pdf) | Soulbound NFT mystery boxes	- <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
