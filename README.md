@@ -24,6 +24,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[OmniNFT](https://www.omnicat.xyz/) | [Report #1](/reports/private/OmniNFT-Security-Review.pdf), [Report #2](/reports/private/OmniNFT-Second-Security-Review.pdf)  | Cross-chain NFT |
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/private/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
 |[Mizuchi]()  | [Report](/reports/private/Mizuchi-Security-Review.pdf) | Perpetual Auctions  |
+|[LiquidLoot](https://www.liquidloot.io/)  | [Report](/LiquidLoot%20-%20Points%20OTC%20Security%20Review.pdf) | Points Marketplace - <img height="20" src="https://img.shields.io/badge/Hyperliquid-90ee90?style=flat"/> |
 
 ## Staking/Restaking
 
@@ -39,7 +40,8 @@ If you have any questions or are seeking a security review for your project, rea
 
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
-|[Shift Protocol](https://shiftprotocol.xyz/) | [Report](/reports/private/ShiftProtocol-Security-Review.pdf) | ERC4626, Asset Management |
+| [Neko.hl](https://www.neko.fun/) | [Report](/reports/private/Neko.hl%20-%20Security%20Review.pdf) | MorphoV2 Fork, Asset Management - <img height="20" src="https://img.shields.io/badge/Hyperliquid-90ee90?style=flat"/> |
+| [Shift Protocol](https://shiftprotocol.xyz/) | [Report](/reports/private/ShiftProtocol-Security-Review.pdf) | ERC4626, Asset Management |
 | [Element280](https://docs.helios-hlx.win/element280) | [Report #1](/reports/private/Element280-Security-Review.pdf)  | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens  |
 | [S88, E280, H420, B88](https://docs.helios-hlx.win/element280) | [Report #1](/reports/private/Omnichain-Security-Review.pdf), [Report #2](/reports/private/H420-Security-Review.pdf), [Report #3](/reports/private/E280-NFT-Security-Review.pdf), [Report #4](/reports/private/E280-BNB-Security-Review.pdf)  | LayerZero V2 OFT tokens  |
 | [Kettle.Shop](https://kettle.shop/) | [Report](/reports/private/Kettle-Mystery-Box-Security-Review.pdf) | Soulbound NFT mystery boxes	- <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
@@ -66,7 +68,6 @@ If you have any questions or are seeking a security review for your project, rea
 | [Tierra](https://www.tierra.live/) | [Report](/reports/private/Tierra-Security-Review.pdf) | Fundraising - <img height="20" src="https://img.shields.io/badge/Berachain-e76812" /> |
 | [LiquidMint](https://liquidmint.xyz/) | [Report](/reports/private/LiquidMint-Security-Review.pdf) | Diamond proxy, NFT renting - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
 | [Lila Finance](https://www.lila.finance/) | [Report](/reports/private/Lila-Finance-Report.pdf) | Yield Farm |
-
 
 ### Public Competitions
 
