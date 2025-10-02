@@ -18,13 +18,13 @@ If you have any questions or are seeking a security review for your project, rea
 
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
-|[Origami Finance](https://origami.finance/) | [Report](/reports/private/Origami-Security-Review.pdf) | ERC-4626 Vault powered by SKY vaults and CoWProtocol - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
-|[RootsFi](https://rootsfi.com/) | [Report](/reports/private/RootsFi-Security-Review.pdf) | CDP Stablecoin - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
-|[CrediFi](https://www.credi.fi/) | [Report](/reports/private/Credifi-Security-Review.pdf) | Onchain credit protocol - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
+|[Origami Finance](https://origami.finance/) | [Report](/reports/private/Origami-Security-Review.pdf) | ERC-4626 Vault powered by SKY vaults and CoWProtocol - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
+|[RootsFi](https://rootsfi.com/) | [Report](/reports/private/RootsFi-Security-Review.pdf) | CDP Stablecoin - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
+|[CrediFi](https://www.credi.fi/) | [Report](/reports/private/Credifi-Security-Review.pdf) | Onchain credit protocol - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 |[OmniNFT](https://www.omnicat.xyz/) | [Report #1](/reports/private/OmniNFT-Security-Review.pdf), [Report #2](/reports/private/OmniNFT-Second-Security-Review.pdf)  | Cross-chain NFT |
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/private/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
 |[Mizuchi]()  | [Report](/reports/private/Mizuchi-Security-Review.pdf) | Perpetual Auctions  |
-|[LiquidLoot](https://www.liquidloot.io/)  | [Report](/LiquidLoot%20-%20Points%20OTC%20Security%20Review.pdf) | Points Marketplace - <img height="20" src="https://img.shields.io/badge/Hyperliquid-90ee90?style=flat"/> |
+|[LiquidLoot](https://www.liquidloot.io/)  | [Report](/LiquidLoot%20-%20Points%20OTC%20Security%20Review.pdf) | Points Marketplace - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 
 ## Staking/Restaking
 
@@ -34,17 +34,17 @@ If you have any questions or are seeking a security review for your project, rea
 | [EnderProtocol](https://www.enderprotocol.io/) | [Report](/reports/private/Ender-Protocol-Security-Review.pdf) | Bonds/Liquid Staking |
 | [CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | [Report](/reports/private/CryptoCritters-(OctoStake)-Security-Review.pdf) | Staking |
 | [Helios Staking V2](https://app.helios.win/) | [Report](/reports/private/HeliosStakingV2-Security-Review.pdf) | Staking  |
-| [BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | [Report](/reports/private/BeeBribes-Security-Review.pdf) | Community Staking - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" />  |
+| [BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | [Report](/reports/private/BeeBribes-Security-Review.pdf) | Community Staking - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/)  |
 
 ## Tokens/Asset Managments
 
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
-| [Neko.hl](https://www.neko.fun/) | [Report](/reports/private/Neko.hl%20-%20Security%20Review.pdf) | MorphoV2 Fork, Asset Management - <img height="20" src="https://img.shields.io/badge/Hyperliquid-90ee90?style=flat"/> |
+| [Neko.hl](https://www.neko.fun/) | [Report](/reports/private/Neko.hl%20-%20Security%20Review.pdf) | MorphoV2 Fork, Asset Management - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 | [Shift Protocol](https://shiftprotocol.xyz/) | [Report](/reports/private/ShiftProtocol-Security-Review.pdf) | ERC4626, Asset Management |
 | [Element280](https://docs.helios-hlx.win/element280) | [Report #1](/reports/private/Element280-Security-Review.pdf)  | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens  |
 | [S88, E280, H420, B88](https://docs.helios-hlx.win/element280) | [Report #1](/reports/private/Omnichain-Security-Review.pdf), [Report #2](/reports/private/H420-Security-Review.pdf), [Report #3](/reports/private/E280-NFT-Security-Review.pdf), [Report #4](/reports/private/E280-BNB-Security-Review.pdf)  | LayerZero V2 OFT tokens  |
-| [Kettle.Shop](https://kettle.shop/) | [Report](/reports/private/Kettle-Mystery-Box-Security-Review.pdf) | Soulbound NFT mystery boxes	- <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
+| [Kettle.Shop](https://kettle.shop/) | [Report](/reports/private/Kettle-Mystery-Box-Security-Review.pdf) | Soulbound NFT mystery boxes	- [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 | [TempleDao - TPI Drip](https://templedao.link/) | [Report](/reports/private/TempleDao-TPI-Security-Review.pdf) | Token Treasury, Price Index |
 | [Voyage](https://voyage.gitbook.io/voyage) | [Report](/reports/private/Voyage-Security-Review.pdf) | ERC20, Staking, Vesting, Vaults |
 | [AlienX](https://xlr8r-build.gitbook.io/alienx) | [Report](/reports/private/AlienX-Security-Review.pdf) | ERC20, BuyAndBurn   |
@@ -65,8 +65,9 @@ If you have any questions or are seeking a security review for your project, rea
 ## Others
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
-| [Tierra](https://www.tierra.live/) | [Report](/reports/private/Tierra-Security-Review.pdf) | Fundraising - <img height="20" src="https://img.shields.io/badge/Berachain-e76812" /> |
-| [LiquidMint](https://liquidmint.xyz/) | [Report](/reports/private/LiquidMint-Security-Review.pdf) | Diamond proxy, NFT renting - <img height="20" src="https://img.shields.io/badge/Berachain-e76812?style=flat" /> |
+| [Click.Game](https://fairplay.trade/) | [Report](/reports/private/Fairplay%20-%20Security%20Review.pdf) | Minesweeper - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) |
+| [Tierra](https://www.tierra.live/) | [Report](/reports/private/Tierra-Security-Review.pdf) | Fundraising - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
+| [LiquidMint](https://liquidmint.xyz/) | [Report](/reports/private/LiquidMint-Security-Review.pdf) | Diamond proxy, NFT renting - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 | [Lila Finance](https://www.lila.finance/) | [Report](/reports/private/Lila-Finance-Report.pdf) | Yield Farm |
 
 ### Public Competitions
