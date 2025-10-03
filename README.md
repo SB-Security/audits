@@ -24,7 +24,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[OmniNFT](https://www.omnicat.xyz/) | [Report #1](/reports/private/OmniNFT-Security-Review.pdf), [Report #2](/reports/private/OmniNFT-Second-Security-Review.pdf)  | Cross-chain NFT |
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/private/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
 |[Mizuchi]()  | [Report](/reports/private/Mizuchi-Security-Review.pdf) | Perpetual Auctions  |
-|[LiquidLoot](https://www.liquidloot.io/)  | [Report](/LiquidLoot%20-%20Points%20OTC%20Security%20Review.pdf) | Points Marketplace - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
+|[LiquidLoot](https://www.liquidloot.io/)  | [Report](/reports/private/LiquidLoot-Points-OTC-Security-Review.pdf) | Points Marketplace - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 
 ## Staking/Restaking
 
