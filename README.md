@@ -25,7 +25,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
 |[Mizuchi]() | [Report](/reports/Mizuchi-Security-Review.pdf) | Perpetual Auctions |
 |[LiquidLoot](https://www.liquidloot.io/) | [Report](/reports/LiquidLoot-Points-OTC-Security-Review.pdf) | Points Marketplace - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
-|[HyperLink](https://hyperlink.xyz/) | Private | TEE Trading Platform with signer key rotation - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
+|[HyperLink](https://hyperlink.xyz/) | Findings: 1 High / 4 Medium | TEE Trading Platform with signer key rotation - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |REDACTED | Findings: 1 Critical / 7 High / 9 Medium | MSTR stock tokenization |
 
 ## Staking/Restaking
