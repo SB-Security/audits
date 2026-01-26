@@ -70,6 +70,7 @@ If you have any questions or are seeking a security review for your project, rea
 ## Others
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
+|[Venus Periphery](https://venus.io/) | Findings: 5 Lows | Swap Router |
 |[Cue](https://cue.market/) | [Report](/reports/Cue-Security-Review.pdf) | Options Betting - [![Solana](https://img.shields.io/badge/Solana-f6b26b?style=flat)](https://solana.com/) |
 |[Gacha](https://pull.gacha.game/) | [Report](/reports/Gacha-Security-Review.pdf) | Gamified Collectibles Marketplace - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) |
 |[Click.Game](https://fairplay.trade/) | [Report](/reports/Fairplay%20-%20Security%20Review.pdf) | Minesweeper - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) |
