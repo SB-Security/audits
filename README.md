@@ -27,7 +27,8 @@ If you have any questions or are seeking a security review for your project, rea
 |[LiquidLoot](https://www.liquidloot.io/) | [Report](/reports/LiquidLoot-Points-OTC-Security-Review.pdf) | Points Marketplace - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[HyperLink](https://hyperlink.xyz/) | Findings: 1 High / 4 Medium | TEE Trading Platform with signer key rotation - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |REDACTED | Findings: 1 Critical / 7 High / 9 Medium | MSTR stock tokenization |
-|[Cabal](https://thecabal.xyz/) | Findings: 11 Lows | Asynchronous Yield Vault on top of Echelon|
+|[Cabal](https://thecabal.xyz/) | Findings: 11 Low | iUSD Asynchronous Yield Vault on top of Echelon|
+|[Cabal](https://thecabal.xyz/) | Findings: 6 Medium | Delta Neutral Vault on top of Echelon - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
 
 ## Staking/Restaking
 
