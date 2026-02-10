@@ -44,6 +44,7 @@ If you have any questions or are seeking a security review for your project, rea
 
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
+|[STBL](https://www.stbl.com/) | Findings: 2 Crit / 5 High / 3 Medium | [Cyfrin] RWA Lending Protocol - [![Stellar](https://img.shields.io/badge/Stellar-ffffff?style=flat)](https://stellar.org/) |
 |[Mentorable](https://www.mentorable.xyz/) | Findings: 1 Crit / 2 High / 3 Medium | Bonding Curve Token launchpad |
 |[BuilDefi](https://buildefi.win/) | [Report](/reports/BuilDefi-Security-Review.pdf) | Custom memetoken launchpad with UniswapV4, UniswapV3 and Aave integrations |
 |[Neko.hl](https://www.neko.fun/) | [Report](/reports/Neko.hl%20-%20Security%20Review.pdf) | MorphoV2 Fork, Asset Management - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
@@ -68,7 +69,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[Titan Legends](https://www.titanlegends.win/) | [Report #1](/reports/Titan%20Legends-Warlords-Security-Review.pdf), [Report #2](/reports/TitanLegends-BnB-Security-Review.pdf) | JakeX Backed NFT |
 |[Sparta](https://www.spartapls.com) | [Report](/reports/Sparta-Security-Review.pdf) | ERC20 |
 |[Diamonds](https://diamonds1111.win) | [Report](/reports/Diamonds-Security-Review.pdf) | Mining token with custom TWAP UniswapV2 oracle |
-|[VeeFriends](https://veefriends.com/) | [Report](/reports/VeeFriends-Security-Review.pdf) | Custom ERC721C with creator policies [Cyfrin] |
+|[VeeFriends](https://veefriends.com/) | [Report](/reports/VeeFriends-Security-Review.pdf) | [Cyfrin] Custom ERC721C with creator policies |
 
 ## Others
 | **Protocol** | Report | Description |
