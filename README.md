@@ -41,10 +41,9 @@ If you have any questions or are seeking a security review for your project, rea
 |[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | [Report](/reports/BeeBribes-Security-Review.pdf) | Community Staking - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 
 ## Tokens/Asset Managments
-
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
-|[STBL](https://www.stbl.com/) | Findings: 2 Crit / 5 High / 3 Medium | [Cyfrin] RWA Lending Protocol - [![Stellar](https://img.shields.io/badge/Stellar-ffffff?style=flat)](https://stellar.org/) |
+| REDACTED | Findings: 2 Crit / 5 High / 3 Medium | [Cyfrin] RWA Lending Protocol - [![Stellar](https://img.shields.io/badge/Stellar-ffffff?style=flat)](https://stellar.org/) |
 |[Mentorable](https://www.mentorable.xyz/) | Findings: 1 Crit / 2 High / 3 Medium | Bonding Curve Token launchpad |
 |[BuilDefi](https://buildefi.win/) | [Report](/reports/BuilDefi-Security-Review.pdf) | Custom memetoken launchpad with UniswapV4, UniswapV3 and Aave integrations |
 |[Neko.hl](https://www.neko.fun/) | [Report](/reports/Neko.hl%20-%20Security%20Review.pdf) | MorphoV2 Fork, Asset Management - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
