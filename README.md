@@ -25,7 +25,10 @@ If you have any questions or are seeking a security review for your project, rea
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
 |[Mizuchi]() | [Report](/reports/Mizuchi-Security-Review.pdf) | Perpetual Auctions |
 |[LiquidLoot](https://www.liquidloot.io/) | [Report](/reports/LiquidLoot-Points-OTC-Security-Review.pdf) | Points Marketplace - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
-|[HyperLink](https://hyperlink.xyz/) | Private | TEE Trading Platform with signer key rotation - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
+|[HyperLink](https://hyperlink.xyz/) | Findings: 1 High / 4 Medium | TEE Trading Platform with signer key rotation - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
+|REDACTED | Findings: 1 Critical / 7 High / 9 Medium | MSTR stock tokenization |
+|[Cabal](https://thecabal.xyz/) | Findings: 11 Low | iUSD Asynchronous Yield Vault on top of Echelon|
+|[Cabal](https://thecabal.xyz/) | Findings: 6 Medium | Delta Neutral Vault on top of Echelon - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
 
 ## Staking/Restaking
 
@@ -38,9 +41,10 @@ If you have any questions or are seeking a security review for your project, rea
 |[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | [Report](/reports/BeeBribes-Security-Review.pdf) | Community Staking - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 
 ## Tokens/Asset Managments
-
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
+| REDACTED | Findings: 2 Crit / 5 High / 3 Medium | [Cyfrin] RWA Lending Protocol - [![Stellar](https://img.shields.io/badge/Stellar-ffffff?style=flat)](https://stellar.org/) |
+|[Mentorable](https://www.mentorable.xyz/) | Findings: 1 Crit / 2 High / 3 Medium | Bonding Curve Token launchpad |
 |[BuilDefi](https://buildefi.win/) | [Report](/reports/BuilDefi-Security-Review.pdf) | Custom memetoken launchpad with UniswapV4, UniswapV3 and Aave integrations |
 |[Neko.hl](https://www.neko.fun/) | [Report](/reports/Neko.hl%20-%20Security%20Review.pdf) | MorphoV2 Fork, Asset Management - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[Shift Protocol](https://shiftprotocol.xyz/) | [Report](/reports/ShiftProtocol-Security-Review.pdf) | ERC4626, Asset Management |
@@ -63,10 +67,14 @@ If you have any questions or are seeking a security review for your project, rea
 |[Janus PLS](https://docs.helios-hlx.win/helios/additional-projects/janus) | [Report](/reports/Janus-PLS-Security-Review.pdf) | Token distribution |
 |[Titan Legends](https://www.titanlegends.win/) | [Report #1](/reports/Titan%20Legends-Warlords-Security-Review.pdf), [Report #2](/reports/TitanLegends-BnB-Security-Review.pdf) | JakeX Backed NFT |
 |[Sparta](https://www.spartapls.com) | [Report](/reports/Sparta-Security-Review.pdf) | ERC20 |
+|[Diamonds](https://diamonds1111.win) | [Report](/reports/Diamonds-Security-Review.pdf) | Mining token with custom TWAP UniswapV2 oracle |
+|[VeeFriends](https://veefriends.com/) | [Report](/reports/VeeFriends-Security-Review.pdf) | [Cyfrin] Custom ERC721C with creator policies |
 
 ## Others
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
+|[Venus Periphery](https://venus.io/) | Findings: 5 Lows | Swap Router |
+|[Cue](https://cue.market/) | [Report](/reports/Cue-Security-Review.pdf) | Options Betting - [![Solana](https://img.shields.io/badge/Solana-f6b26b?style=flat)](https://solana.com/) |
 |[Gacha](https://pull.gacha.game/) | [Report](/reports/Gacha-Security-Review.pdf) | Gamified Collectibles Marketplace - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) |
 |[Click.Game](https://fairplay.trade/) | [Report](/reports/Fairplay%20-%20Security%20Review.pdf) | Minesweeper - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) |
 |[Tierra](https://www.tierra.live/) | [Report](/reports/Tierra-Security-Review.pdf) | Fundraising - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
