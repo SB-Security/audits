@@ -47,6 +47,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[Mentorable](https://www.mentorable.xyz/) | Findings: 1 Crit / 2 High / 3 Medium | Bonding Curve Token launchpad |
 |[BuilDefi](https://buildefi.win/) | [Report](/reports/BuilDefi-Security-Review.pdf) | Custom memetoken launchpad with UniswapV4, UniswapV3 and Aave integrations |
 |[Neko.hl](https://www.neko.fun/) | [Report](/reports/Neko.hl%20-%20Security%20Review.pdf) | MorphoV2 Fork, Asset Management - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
+|[Neko.hl OVault](https://www.neko.fun/) | [Report](/reports/Neko.hl%20OVault%20-%20Security%20Review.pdf) | Omnichain MorphoV2 Fork - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[Shift Protocol](https://shiftprotocol.xyz/) | [Report](/reports/ShiftProtocol-Security-Review.pdf) | ERC4626, Asset Management |
 |[Element280](https://docs.helios-hlx.win/element280) | [Report #1](/reports/Element280-Security-Review.pdf) | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens |
 |[S88, E280, H420, B88](https://docs.helios-hlx.win/element280) | [Report #1](/reports/Omnichain-Security-Review.pdf), [Report #2](/reports/H420-Security-Review.pdf), [Report #3](/reports/E280-NFT-Security-Review.pdf), [Report #4](/reports/E280-BNB-Security-Review.pdf) | LayerZero V2 OFT tokens |
