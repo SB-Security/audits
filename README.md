@@ -20,6 +20,7 @@ If you have any questions or are seeking a security review for your project, rea
 |-----------------|----------------|------------------|
 |[Origami Finance](https://origami.finance/) | [Report](/reports/Origami-Security-Review.pdf) | ERC-4626 Vault powered by SKY vaults and CoWProtocol - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 |[RootsFi](https://rootsfi.com/) | [Report](/reports/RootsFi-Security-Review.pdf) | CDP Stablecoin - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
+|[Firm Money](https://usf.money/) | Findings: 8 Low | [Cyfrin] CDP Stablecoin |
 |[CrediFi](https://www.credi.fi/) | [Report](/reports/Credifi-Security-Review.pdf) | Onchain credit protocol - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 |[OmniNFT](https://www.omnicat.xyz/) | [Report #1](/reports/OmniNFT-Security-Review.pdf), [Report #2](/reports/OmniNFT-Second-Security-Review.pdf) | Cross-chain NFT |
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
@@ -29,6 +30,7 @@ If you have any questions or are seeking a security review for your project, rea
 |REDACTED | Findings: 1 Critical / 7 High / 9 Medium | MSTR stock tokenization |
 |[Cabal](https://thecabal.xyz/) | Findings: 11 Low | iUSD Asynchronous Yield Vault on top of Echelon|
 |[Cabal](https://thecabal.xyz/) | Findings: 6 Medium | Delta Neutral Vault on top of Echelon - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
+|[Cabal](https://thecabal.xyz/) | Findings: 8 Low | LST Wrapper for Strat Protocol - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
 
 ## Staking/Restaking
 
