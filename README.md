@@ -72,6 +72,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[Sparta](https://www.spartapls.com) | [Report](/reports/Sparta-Security-Review.pdf) | ERC20 |
 |[Diamonds](https://diamonds1111.win) | [Report](/reports/Diamonds-Security-Review.pdf) | Mining token with custom TWAP UniswapV2 oracle |
 |[VeeFriends](https://veefriends.com/) | [Report](/reports/VeeFriends-Security-Review.pdf) | [Cyfrin] Custom ERC721C with creator policies |
+|[Vernal]() | [Report](/reports/Vernal-Security-Review.pdf) | Token backed by USDS |
 
 ## Others
 | **Protocol** | Report | Description |
