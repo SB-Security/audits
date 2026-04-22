@@ -29,7 +29,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[HyperLink](https://hyperlink.xyz/) | Findings: 1 High / 4 Medium | TEE Trading Platform with signer key rotation - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[Buck](https://buck.io/) | Findings: 1 Critical / 7 High / 9 Medium | [Cyfrin] MSTR stock tokenization |
 |[Cabal](https://thecabal.xyz/) | Findings: 11 Low | iUSD Asynchronous Yield Vault on top of Echelon|
-|[Cabal](https://thecabal.xyz/) | Findings: 6 Medium | Delta Neutral Vault on top of Echelon - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
+|[Cabal](https://thecabal.xyz/) | [Report](/reports/Cabal-DeltaNeutral-Security-Review.pdf) | Delta Neutral Vault on top of Echelon - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
 |[Cabal](https://thecabal.xyz/) | Findings: 8 Low | LST Wrapper for Strat Protocol - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
 
 ## Staking/Restaking
