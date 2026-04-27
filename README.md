@@ -79,7 +79,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[Titan Legends](https://www.titanlegends.win/) | [Report #1](/reports/Titan%20Legends-Warlords-Security-Review.pdf), [Report #2](/reports/TitanLegends-BnB-Security-Review.pdf) | JakeX Backed NFT |
 |[Sparta](https://www.spartapls.com) | [Report](/reports/Sparta-Security-Review.pdf) | ERC20 |
 |[Diamonds](https://diamonds1111.win) | [Report](/reports/Diamonds-Security-Review.pdf) | Mining token with custom TWAP UniswapV2 oracle |
-|[VeeFriends](https://veefriends.com/) | [Report](/reports/VeeFriends-Security-Review.pdf) | [Cyfrin] Custom ERC721C with creator policies |
+|[VeeFriends](https://veefriends.com/) | [Report](/reports/VeeFriends-Security-Review.pdf) | Custom ERC721C with creator policies |
 |[Vernal]() | [Report](/reports/Vernal-Security-Review.pdf) | Token backed by USDS |
 |[GoldMine]() | [Report](/reports/GoldMine-Security-Review.pdf) | Mining and Buyback Tether Gold Integration |
 |[PsiFi](https://psifi.app/) | Findings: 3 Low | ERC721 using ERC1155 and EIP712 signatures |
