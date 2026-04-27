@@ -19,18 +19,19 @@ If you have any questions or are seeking a security review for your project, rea
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
 |[Origami Finance](https://origami.finance/) | [Report](/reports/Origami-Security-Review.pdf) | ERC-4626 Vault powered by SKY vaults and CoWProtocol - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
-|[RootsFi](https://rootsfi.com/) | [Report](/reports/RootsFi-Security-Review.pdf) | CDP Stablecoin - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
-|[Firm Money](https://usf.money/) | Findings: 8 Low | [Cyfrin] CDP Stablecoin |
 |[CrediFi](https://www.credi.fi/) | [Report](/reports/Credifi-Security-Review.pdf) | Onchain credit protocol - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 |[OmniNFT](https://www.omnicat.xyz/) | [Report #1](/reports/OmniNFT-Security-Review.pdf), [Report #2](/reports/OmniNFT-Second-Security-Review.pdf) | Cross-chain NFT |
 |[fMoney Market](https://www.fmoney.market/lending) | [Report](/reports/fMoney-Security-Review.pdf) | CompoundV2 fork	 |
 |[Mizuchi]() | [Report](/reports/Mizuchi-Security-Review.pdf) | Perpetual Auctions |
 |[LiquidLoot](https://www.liquidloot.io/) | [Report](/reports/LiquidLoot-Points-OTC-Security-Review.pdf) | Points Marketplace - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[HyperLink](https://hyperlink.xyz/) | Findings: 1 High / 4 Medium | TEE Trading Platform with signer key rotation - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
-|[Buck](https://buck.io/) | Findings: 1 Critical / 7 High / 9 Medium | [Cyfrin] MSTR stock tokenization |
-|[Cabal](https://thecabal.xyz/) | Findings: 11 Low | iUSD Asynchronous Yield Vault on top of Echelon|
+|[Buck](https://buck.io/) | [Report](/reports/Buck-Security-Review.pdf) | MicroStrategy MSTR tokenization |
+|[Cabal](https://thecabal.xyz/) | [Report](/reports/Cabal-iUSD-Vault-Security-Review.pdf) | iUSD Asynchronous Yield Vault on top of Echelon|
 |[Cabal](https://thecabal.xyz/) | [Report](/reports/Cabal-DeltaNeutral-Security-Review.pdf) | Delta Neutral Vault on top of Echelon - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
-|[Cabal](https://thecabal.xyz/) | Findings: 8 Low | LST Wrapper for Strat Protocol - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
+|[Cabal](https://thecabal.xyz/) | [Report](/reports/Cabal-Strat-Vault-LST-Wrapper-Security-Review.pdf) | LST Wrapper for Strat Protocol - [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
+|[Mentorable](https://www.mentorable.xyz/) | Findings: 1 Crit / 2 High / 3 Medium | Bonding Curve Token launchpad |
+|[Venus](https://venus.io/) | [Report](/reports/Venus-Swap-Router-Security-Review.pdf) | Swap Router |
+|[M0](https://www.m0.org/) | Findings: 5 Low | Cross-Chain Bridge Adapters |
 
 ## Staking/Restaking
 
@@ -45,14 +46,21 @@ If you have any questions or are seeking a security review for your project, rea
 ## Tokens/Asset Managments
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
-| REDACTED | Findings: 2 Crit / 5 High / 3 Medium | [Cyfrin] RWA Lending Protocol - [![Stellar](https://img.shields.io/badge/Stellar-ffffff?style=flat)](https://stellar.org/) |
-|[Mentorable](https://www.mentorable.xyz/) | Findings: 1 Crit / 2 High / 3 Medium | Bonding Curve Token launchpad |
+|REDACTED | 4 Audits | Top 4 Stablecoin by Market Cap |
+|[STBL](https://www.stbl.com/) | [Report](/reports/STBL-Stellar-V2-Security-Review.pdf) | RWA Lending Protocol - [![Stellar](https://img.shields.io/badge/Stellar-ffffff?style=flat)](https://stellar.org/) |
+|[RootsFi](https://rootsfi.com/) | [Report](/reports/RootsFi-Security-Review.pdf) | CDP Stablecoin - [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
+|[Firm Money](https://rootsfi.com/) | [Report](/reports/Firm-Money-Security-Review.pdf) | Core CDP Stablecoin on Status Network |
 |[BuilDefi](https://buildefi.win/) | [Report](/reports/BuilDefi-Security-Review.pdf) | Custom memetoken launchpad with UniswapV4, UniswapV3 and Aave integrations |
 |[Neko.hl](https://www.neko.fun/) | [Report](/reports/Neko.hl%20-%20Security%20Review.pdf) | MorphoV2 Fork, Asset Management - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[Neko.hl OVault](https://www.neko.fun/) | [Report](/reports/Neko.hl%20OVault%20-%20Security%20Review.pdf) | Omnichain MorphoV2 Fork - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[Shift Protocol](https://shiftprotocol.xyz/) | [Report](/reports/ShiftProtocol-Security-Review.pdf) | ERC4626, Asset Management |
-|[Element280](https://docs.helios-hlx.win/element280) | [Report #1](/reports/Element280-Security-Review.pdf) | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens |
-|[S88, E280, H420, B88](https://docs.helios-hlx.win/element280) | [Report #1](/reports/Omnichain-Security-Review.pdf), [Report #2](/reports/H420-Security-Review.pdf), [Report #3](/reports/E280-NFT-Security-Review.pdf), [Report #4](/reports/E280-BNB-Security-Review.pdf) | LayerZero V2 OFT tokens |
+|[Shift Protocol V2](https://shiftprotocol.xyz/) | [Report](/reports/Shift-V2-Security-Review.pdf) | ERC4626, Asset Management |
+|[Shift Protocol V2](https://shiftprotocol.xyz/) | [Report](/reports/Shift-V2-Cairo-Security-Review.pdf) | ERC4626, Asset Management - [![Cairo](https://img.shields.io/badge/Cairo-fc4e03?style=flat)](https://www.cairo-lang.org/) |
+|[Element280](https://element280.win/) | [Report](/reports/Element280-Security-Review.pdf) | ERC20, NFT, BuyAndBurn aggregating other ecosystem tokens |
+|[S88, E280, H420, B88](https://element280.win/) | [Report #1](/reports/Omnichain-Security-Review.pdf), [Report #2](/reports/H420-Security-Review.pdf), [Report #3](/reports/E280-NFT-Security-Review.pdf), [Report #4](/reports/E280-BNB-Security-Review.pdf) | LayerZero V2 OFT tokens |
+|[E280 ARB](https://element280.win/) | [Report](/reports/E280-ARB-Security%20Review.pdf) | Element280 ARB expansion with GMX V2 integration |
+|[E280 BNB](https://element280.win/) | [Report](/reports/E280-BNB-Security-Review.pdf) | Element280 BNB expansion |
+|[E280 NFT](https://element280.win/) | [Report](/reports/E280-NFT-Security-Review.pdf) | ERC721 colection with Element280 |
 |[Kettle.Shop](https://kettle.shop/) | [Report](/reports/Kettle-Mystery-Box-Security-Review.pdf) | Soulbound NFT mystery boxes	- [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 |[TempleDao - TPI Drip](https://templedao.link/) | [Report](/reports/TempleDao-TPI-Security-Review.pdf) | Token Treasury, Price Index |
 |[Voyage](https://voyage.gitbook.io/voyage) | [Report](/reports/Voyage-Security-Review.pdf) | ERC20, Staking, Vesting, Vaults |
@@ -73,11 +81,13 @@ If you have any questions or are seeking a security review for your project, rea
 |[Diamonds](https://diamonds1111.win) | [Report](/reports/Diamonds-Security-Review.pdf) | Mining token with custom TWAP UniswapV2 oracle |
 |[VeeFriends](https://veefriends.com/) | [Report](/reports/VeeFriends-Security-Review.pdf) | [Cyfrin] Custom ERC721C with creator policies |
 |[Vernal]() | [Report](/reports/Vernal-Security-Review.pdf) | Token backed by USDS |
+|[GoldMine]() | [Report](/reports/GoldMine-Security-Review.pdf) | Mining and Buyback Tether Gold Integration |
+|[PsiFi](https://psifi.app/) | Findings: 3 Low | ERC721 using ERC1155 and EIP712 signatures |
 
 ## Others
 | **Protocol** | Report | Description |
 |-----------------|----------------|------------------|
-|[Venus Periphery](https://venus.io/) | Findings: 5 Lows | Swap Router |
+|[ENS DAO](https://ensdao.org/) | Findings: 3 Low | Proposal Execution System |
 |[Cue](https://cue.market/) | [Report](/reports/Cue-Security-Review.pdf) | Options Betting - [![Solana](https://img.shields.io/badge/Solana-f6b26b?style=flat)](https://solana.com/) |
 |[Gacha](https://pull.gacha.game/) | [Report](/reports/Gacha-Security-Review.pdf) | Gamified Collectibles Marketplace - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) |
 |[Click.Game](https://fairplay.trade/) | [Report](/reports/Fairplay%20-%20Security%20Review.pdf) | Minesweeper - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) |
