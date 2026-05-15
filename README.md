@@ -24,58 +24,59 @@ If you have any questions or are seeking a security review for your project, rea
 - Telegram - [**Slavcheww**](https://t.me/Slavcheww) / [**Blckhv**](https://t.me/Blckhv)
 - Discord - [**Slavcheww**](https://discordapp.com/users/263383171058499585) / [**Blckhv**](https://discordapp.com/users/215564246786768896)
 
-<!-- ## What Clients Say
+## What Clients Say
 
-<table>
-<tr>
-<td width="50%" valign="top">
+  <table>
+  <tr>
+  <td width="50%" valign="top">
 
-*"Across multiple audits with SBSecurity, the experience has consistently been smooth and on-schedule. The team is efficient, highly competent, and friendly — and we've been very happy with the process every time."*
+  *"Across multiple audits with SBSecurity, the experience has consistently been smooth and on-schedule. The team is efficient, highly competent, and friendly — and we've been very happy with the process every time."*
 
-**— 0xRadian**
+  **— [0xSigmoid](https://x.com/0xSigmoid)** · Core Team at [Cabal](https://x.com/CabalFDN)
 
-</td>
-<td width="50%" valign="top">
+  </td>
+  <td width="50%" valign="top">
 
-*"It is a rare thing to find a team that moves with both speed and precision. Working with you was enjoyable and consistently reliable. An excellent experience end to end."*
+  *"It is a rare thing to find a team that moves with both speed and precision. Working with you was enjoyable and consistently reliable. An excellent experience end to end."*
 
-**— Near**
+  **— [Near](https://x.com/Nearisbuilding)** · CTO at [Mentorable](https://x.com/mentorablehq)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
 
-*"They are proactive, passionate, and precise — consistently supporting you before, during, and after the audit. What we appreciated most was the feeling of a true collaboration rather than a 'you paid for an audit, now it's over' relationship."*
+  *"They are proactive, passionate, and precise — consistently supporting you before, during, and after the audit. What we appreciated most was the feeling of a true collaboration rather than a 'you paid for an audit, now it's over' relationship."*
 
-**— Hyper0x0**
+  **— [Hyper0x0](https://x.com/hyper0x0)** · CTO at [Shift Protocol](https://x.com/shiftprotocol_)
 
-</td>
-<td width="50%" valign="top">
+  </td>
+  <td width="50%" valign="top">
 
-*"Provided a lot of context and took input from us to define the true risks. Went into depth distinguishing 'chain' versus 'dApp' problems — helpful for the overall report. Iteration was fast and without hassle."*
+  *"Provided a lot of context and took input from us to define the true risks. Went into depth distinguishing 'chain' versus 'dApp' problems — helpful for the overall report. Iteration was fast and without hassle."*
 
-**— Ertemann**
+  **— [Ertemann](https://x.com/ertemann)** · CSO at [Lavender Five](https://x.com/lavender_five)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
 
-*"SB's background in audit competitions is evident in their speed, persistence, and attention to detail. The auditors have strong opinions on how code should be implemented and know what they are talking about — and they are not afraid to dive into new things to bring fresh insights to an audit."*
+  *"SB's background in audit competitions is evident in their speed, persistence, and attention to detail. The auditors have strong opinions on how code should be implemented and know what they are talking about — and they are not afraid to dive into new things to bring fresh 
+  insights to an audit."*
 
-**— Lux**
+  **— [Lux](https://x.com/luxaverse)** · CTO at [Origami Finance](https://x.com/origami_fi)
 
-</td>
-<td width="50%" valign="top">
+  </td>
+  <td width="50%" valign="top">
 
-*"Great team to work with, exceptionally fast turnaround. Will be working together again."*
+  *"Great team to work with, exceptionally fast turnaround. Will be working together again."*
 
-**— Winny**
+  **— [Winny](https://x.com/winternet)** · Founder of [Cue](https://x.com/cuedotfun)
 
-</td>
-</tr>
-</table> -->
+  </td>
+  </tr>
+  </table>
 
 ## Lending, Stablecoins & Credit
 
