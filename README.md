@@ -20,9 +20,9 @@ We're built for long-term security partnerships, not one-off audits — 80% of o
 If you have any questions or are seeking a security review for your project, reach out us at:
 
 - Website - [**sbsecurity.net**](https://sbsecurity.net/)
-- Twitter - [**Slavcheww**](https://twitter.com/Slavcheww) / [**Blckhv**](https://twitter.com/blckhv)
-- Telegram - [**Slavcheww**](https://t.me/Slavcheww) / [**Blckhv**](https://t.me/Blckhv)
-- Discord - [**Slavcheww**](https://discordapp.com/users/263383171058499585) / [**Blckhv**](https://discordapp.com/users/215564246786768896)
+- Twitter - [**Blckhv**](https://twitter.com/blckhv)
+- Telegram - [**Blckhv**](https://t.me/Blckhv)
+- Discord - [**Blckhv**](https://discordapp.com/users/215564246786768896)
 
 ## What Clients Say
 
@@ -199,6 +199,6 @@ Building something that needs a careful set of eyes? Reach out — we typically 
 
 Or reach out directly:
 
-- Twitter — [Slavcheww](https://twitter.com/Slavcheww) · [Blckhv](https://twitter.com/blckhv)
-- Telegram — [Slavcheww](https://t.me/Slavcheww) · [Blckhv](https://t.me/Blckhv)
-- Discord — [Slavcheww](https://discordapp.com/users/263383171058499585) · [Blckhv](https://discordapp.com/users/215564246786768896)
+- Twitter — [Blckhv](https://twitter.com/blckhv)
+- Telegram — [Blckhv](https://t.me/Blckhv)
+- Discord — [Blckhv](https://discordapp.com/users/215564246786768896)
