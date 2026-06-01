@@ -8,23 +8,57 @@
 
 *Security reviews for teams that can't afford a hack.*
 
-We're built for long-term security partnerships, not one-off audits — 80% of our clients come back for more. We serve DeFi protocols at every stage and scale.
+**8 out of 10 clients come back for the next audit.** 
 
-- Manual Audits, AI-Superpowered
-- Architectural Reviews
-- Formal Verification
-- Retainers with unlimited reviews — 2+ senior auditors available 24/7
-- Web2 Audits with OpSec / Pentesting emphasis
+> **3 years · 60+ audits · $1.1B in TVL reviewed · 400 Crit/High found · zero hacks on audited scope**
 
+### → [Request an audit](https://www.sbsecurity.net/request-audit) — audit kickoff in <24h
 
-If you have any questions or are seeking a security review for your project, reach out us at:
+[Website](https://sbsecurity.net/) · [X](https://twitter.com/blckhv) · [Telegram](https://t.me/Blckhv) · [Discord](https://discordapp.com/users/215564246786768896)
 
-- Website - [**sbsecurity.net**](https://sbsecurity.net/)
-- Twitter - [**Blckhv**](https://twitter.com/blckhv)
-- Telegram - [**Blckhv**](https://t.me/Blckhv)
-- Discord - [**Blckhv**](https://discordapp.com/users/215564246786768896)
+## Why SBSecurity
+
+- **We match the team to your protocol.** Different stacks need different skills, so we pick auditors who already know your chain and your problem. All are public audit contest winners. On a retainer, two or more are on call any time of day.
+- **We win public audit contests.** Gold at Venus Governance and Fenix Finance. Silver at Recall. Top 5 at ZetaChain, Badger eBTC, Kelp DAO, and Zaros. Full list below.
+- **We stay with you after the audit.** 8 out of 10 clients hire us again. We help you fix the bugs and watch the code after it goes live.
+- **We work on many chains and languages.** Solidity, Rust, Move, and Cairo. Ethereum, Berachain, Hyperliquid, Movement, Stellar, Solana, Starknet, Abstract, PulseChain, and more.
+
+## Selected Work
+
+| **Protocol** | What we reviewed | Stack |
+|---|---|---|
+|[ENS DAO](https://ensdao.org/) | OpenZeppelin Governor + 2-day Timelock executing on-chain ENS proposals, with Security Council cancel rights | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
+|REDACTED Top-4 Stablecoin · 4 audits | Vesting logic, Securitize-backed RWA issuance, and Dolomite-locked staked-stablecoin reward loop | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
+|[M0](https://www.m0.org/) | M Portal bridge adapters routing $M stablecoin over Wormhole NTT and Hyperlane | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
+|[Origami Finance](https://origami.finance/) · [Report](/reports/Origami-Security-Review.pdf) | ERC-4626 auto-compounder wrapping Sky sUSDS savings, with CoW Protocol swap routing | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
+|[Cabal](https://thecabal.xyz/) · 3 audits — [iUSD](/reports/Cabal-iUSD-Vault-Security-Review.pdf), [Delta-Neutral](/reports/Cabal-DeltaNeutral-Security-Review.pdf), [Strat LST](/reports/Cabal-Strat-Vault-LST-Wrapper-Security-Review.pdf) | ERC-7540 async vault, delta-neutral perp hedge, Move-based LST wrapper | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Move](https://img.shields.io/badge/Move-f5cb0f?style=flat)](https://movementlabs.xyz/) |
+|[STBL](https://www.stbl.com/) · [Report](/reports/STBL-Stellar-V2-Security-Review.pdf) | Tokenized T-Bill RWA backing: USST stablecoin + YLD yield-claim NFT on Soroban | [![Rust](https://img.shields.io/badge/Rust-dea584?style=flat)](https://www.rust-lang.org/) [![Stellar](https://img.shields.io/badge/Stellar-ffffff?style=flat)](https://stellar.org/) |
+|[Neko.hl](https://www.neko.fun/) · [Vaults](/reports/Neko.hl%20-%20Security%20Review.pdf), [OVault](/reports/Neko.hl%20OVault%20-%20Security%20Review.pdf) | Morpho V2 fork on Hyperliquid with LayerZero OVault cross-chain shares | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
+|[Shift Protocol](https://shiftprotocol.xyz/) · V1, V2, [Cairo port](/reports/Shift-V2-Cairo-Security-Review.pdf) | ERC-4626 vault evolution across three releases and two languages | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Cairo](https://img.shields.io/badge/Cairo-fc4e03?style=flat)](https://www.cairo-lang.org/) |
+|[CrediFi](https://www.credi.fi/) · [Report](/reports/Credifi-Security-Review.pdf) | Onchain unsecured credit protocol issuing fixed-rate crypto loans | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
+
+*Full portfolio below ↓*
+
+## Public Competitions
+
+Our skill, tested against the best auditors in the world — on Code4rena, Cantina, and Sherlock.
+
+| **Protocol** | Type | Date | Ranking |
+|-----------------|:----------------:|:------------------:|:------------------------:|
+|[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero module | March 2024 | 🥇 |
+|[Fenix Finance](https://www.fenixfinance.io/) | Liquidity Marketplace | July 2024 | 🥇 |
+|[Recall](https://code4rena.com/audits/2025-02-recall) | Stableswap | February 2025 | 🥈 |
+|[Thorn](https://app.hats.finance/audit-competitions/thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/leaderboard) | Stableswap | October 2024 | 4th |
+|[ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Interoperability protocol | August 2024 | 5th |
+|[Badger eBTC](https://code4rena.com/audits/2024-06-ebtc-zap-router) | CDP | June 2024 | 5th |
+|[Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | Liquid Restaking | November 2023 | 5th |
+|[Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros) | Perps | July 2024 | 6th |
+
+And over 40 more contests.
 
 ## What Clients Say
+
+Why 8 out of 10 clients come back:
 
   <table>
   <tr>
@@ -78,7 +112,9 @@ If you have any questions or are seeking a security review for your project, rea
   </tr>
   </table>
 
-## Lending, Stablecoins & Credit
+## Full Portfolio
+
+### Lending, Stablecoins & Credit
 
 | **Protocol** | Report | Description | Details |
 |-----------------|----------------|------------------|------------------|
@@ -91,7 +127,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[STBL](https://www.stbl.com/) | [Report](/reports/STBL-Stellar-V2-Security-Review.pdf) | Tokenized T-Bill RWA backing with principal/yield split: USST stablecoin + YLD yield-claim NFT (Soroban) | [![Rust](https://img.shields.io/badge/Rust-dea584?style=flat)](https://www.rust-lang.org/) [![Stellar](https://img.shields.io/badge/Stellar-ffffff?style=flat)](https://stellar.org/) |
 |[M0](https://www.m0.org/) | Findings: 5 Low | M Portal bridge adapters routing $M stablecoin transfers over Wormhole NTT and Hyperlane messaging frameworks | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 
-## Yield Vaults & Asset Management
+### Yield Vaults & Asset Management
 
 | **Protocol** | Report | Description | Details |
 |-----------------|----------------|------------------|------------------|
@@ -108,7 +144,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[TempleDao - TPI Drip](https://templedao.link/) | [Report](/reports/TempleDao-TPI-Security-Review.pdf) | Treasury Price Index oracle that linearly drips TEMPLE backing toward a DAO-set target, anchoring TLC borrow/liquidation | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 |[Lila Finance](https://www.lila.finance/) | [Report](/reports/Lila-Finance-Report.pdf) | Interest-rate swap protocol splitting yield-bearing positions into fixed and floating rate legs (Arbitrum) | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 
-## DEX, Perps & Trading Infra
+### DEX, Perps & Trading Infra
 
 | **Protocol** | Report | Description | Details |
 |-----------------|----------------|------------------|------------------|
@@ -117,7 +153,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[HyperLink](https://hyperlink.xyz/) | Findings: 1 High / 4 Medium | TEE-isolated trading frontend for Hyperliquid with rotatable session signer keys for non-custodial order flow | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[LiquidLoot](https://www.liquidloot.io/) | [Report](/reports/LiquidLoot-Points-OTC-Security-Review.pdf) | Pre-TGE points OTC marketplace with on-chain order book, USDT collateral escrow, and post-TGE settlement | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 
-## Staking & Restaking
+### Staking & Restaking
 
 | **Protocol** | Report | Description | Details |
 |-----------------|----------------|------------------|------------------|
@@ -127,7 +163,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[Helios Staking V2](https://app.helios.win/) | [Report](/reports/HeliosStakingV2-Security-Review.pdf) | Multi-asset I-PoSR staking on Helios L1, where validators collateralize HLX against bridged stablecoin and RWA deposits | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 |[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | [Report](/reports/BeeBribes-Security-Review.pdf) | Permissionless Berachain bribe auction directing validator BGT emissions to reward vaults priced by daily bid share | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 
-## NFTs, Games & Marketplaces
+### NFTs, Games & Marketplaces
 
 | **Protocol** | Report | Description | Details |
 |-----------------|----------------|------------------|------------------|
@@ -145,7 +181,7 @@ If you have any questions or are seeking a security review for your project, rea
 |[LiquidMint](https://liquidmint.xyz/) | [Report](/reports/LiquidMint-Security-Review.pdf) | Berachain Diamond-proxy protocol for NFT liquid backing, lending/borrowing, and rental against jpeg collateral | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 |[Tierra](https://www.tierra.live/) | [Report](/reports/Tierra-Security-Review.pdf) | Berachain AI-DAO fundraising platform with AI-agent-compatible smart contracts (Bailoo) orchestrating raises and treasury flows | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
 
-## Tokens & Tokenomics Engines
+### Tokens & Tokenomics Engines
 
 | **Protocol** | Report | Description | Details |
 |-----------------|----------------|------------------|------------------|
@@ -170,35 +206,16 @@ If you have any questions or are seeking a security review for your project, rea
 |[Mentorable](https://www.mentorable.xyz/) | Findings: 1 Crit / 2 High / 3 Medium | Bonding-curve launchpad for tokenized mentor access | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 |[BuilDefi](https://buildefi.win/) | [Report](/reports/BuilDefi-Security-Review.pdf) | Memecoin launchpad routing liquidity through Uniswap V4 hooks and V3 pools, with Aave-collateralized treasury | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 
-## Governance
+### Governance
 
 | **Protocol** | Report | Description | Details |
 |-----------------|----------------|------------------|------------------|
 |[ENS DAO](https://ensdao.org/) | Findings: 3 Low | OpenZeppelin Governor + 2-day Timelock executing on-chain ENS proposals, with Security Council cancel rights | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 
-### Public Competitions
-
-| **Protocol** | Type | Date | Ranking |
-|-----------------|:----------------:|:------------------:|:------------------------:|
-|[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero module | March 2024 | 🥇 |
-|[Fenix Finance](https://www.fenixfinance.io/) | Liquidity Marketplace | July 2024 | 🥇 |
-|[Recall](https://code4rena.com/audits/2025-02-recall) | Stableswap | February 2025 | 🥈 |
-|[Thorn](https://app.hats.finance/audit-competitions/thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/leaderboard) | Stableswap | October 2024 | 4th |
-|[ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Interoperability protocol | August 2024 | 5th |
-|[Badger eBTC](https://code4rena.com/audits/2024-06-ebtc-zap-router) | CDP | June 2024 | 5th |
-|[Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | Liquid Restaking | November 2023 | 5th |
-|[Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros) | Perps | July 2024 | 6th |
-
-And over 40 more contests 
-
 ## Book a Review
 
-Building something that needs a careful set of eyes? Reach out — we typically respond within 12 hours.
+Have code that needs a careful look? We reply in minutes.
 
 ### → [Request an audit](https://www.sbsecurity.net/request-audit)
 
-Or reach out directly:
-
-- Twitter — [Blckhv](https://twitter.com/blckhv)
-- Telegram — [Blckhv](https://t.me/Blckhv)
-- Discord — [Blckhv](https://discordapp.com/users/215564246786768896)
+Find us at the top of the page — [Website](https://sbsecurity.net/), [X](https://twitter.com/blckhv), [Telegram](https://t.me/Blckhv), [Discord](https://discordapp.com/users/215564246786768896).
