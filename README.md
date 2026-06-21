@@ -21,7 +21,7 @@
 - **We match the team to your protocol.** Different stacks need different skills, so we pick auditors who already know your chain and your problem. All are public audit contest winners. On a retainer, two or more are on call any time of day.
 - **We win public audit contests.** Gold at Venus Governance and Fenix Finance. Silver at Recall. Top 5 at ZetaChain, Badger eBTC, Kelp DAO, and Zaros. Full list below.
 - **We stay with you after the audit.** 8 out of 10 clients hire us again. We help you fix the bugs and watch the code after it goes live.
-- **We work on many chains and languages.** Solidity, Rust, Move, and Cairo. Ethereum, Berachain, Hyperliquid, Movement, Stellar, Solana, Starknet, Abstract, PulseChain, and more.
+- **We work on many chains and languages.** Solidity, Rust, Move, and Cairo. Ethereum, Berachain, Hyperliquid, Movement, Stellar, Solana, Starknet, Abstract, Arbitrum, and more.
 
 ## Selected Work
 
@@ -152,6 +152,7 @@ Why 8 out of 10 clients come back:
 |[Mizuchi]() | [Report](/reports/Mizuchi-Security-Review.pdf) | Continuous on-chain auction primitive for permissionless token issuance and price discovery | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 |[HyperLink](https://hyperlink.xyz/) | Findings: 1 High / 4 Medium | TEE-isolated trading frontend for Hyperliquid with rotatable session signer keys for non-custodial order flow | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
 |[LiquidLoot](https://www.liquidloot.io/) | [Report](/reports/LiquidLoot-Points-OTC-Security-Review.pdf) | Pre-TGE points OTC marketplace with on-chain order book, USDT collateral escrow, and post-TGE settlement | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) |
+|[Bebop](https://bebop.xyz/) | [Report](/reports/Bebop-router-v2.0-Security-Review.pdf) | RFQ swap router wrapping the Bebop PMM — rewrites the fill amount in maker-signed settlement calldata, with pluggable fee/oracle checkers, pre/post hooks, and a Permit2 gasless settle path | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 
 ### Staking & Restaking
 
@@ -162,6 +163,7 @@ Why 8 out of 10 clients come back:
 |[CryptoCrritters(OctoStake)](https://cryptocritters.meme/) | [Report](/reports/CryptoCritters-(OctoStake)-Security-Review.pdf) | NFT staking vault locking ERC-721s to accrue ERC-20 emission rewards | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 |[Helios Staking V2](https://app.helios.win/) | [Report](/reports/HeliosStakingV2-Security-Review.pdf) | Multi-asset I-PoSR staking on Helios L1, where validators collateralize HLX against bridged stablecoin and RWA deposits | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 |[BeeBribes](https://www.lavenderfive.com/blog/permissionless-market-for-berachain-liquidity-incentives) | [Report](/reports/BeeBribes-Security-Review.pdf) | Permissionless Berachain bribe auction directing validator BGT emissions to reward vaults priced by daily bid share | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) [![Berachain](https://img.shields.io/badge/Berachain-e76812?style=flat)](https://www.berachain.com/) |
+|[CoBuilders](https://cobuilders.xyz/) | Soon | Operator-driven automation around Arbitrum Stylus cache-slot bidding: per-user escrows bid via the upstream CacheManager to keep WASM programs warm, reading status through the ArbWasm/ArbWasmCache precompiles | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 
 ### NFTs, Games & Marketplaces
 
@@ -205,6 +207,7 @@ Why 8 out of 10 clients come back:
 |[GoldMine]() | [Report](/reports/GoldMine-Security-Review.pdf) | Mining-style ERC-20 with XAUt (Tether Gold) integrated buyback, anchoring token backing to tokenized physical gold | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 |[Mentorable](https://www.mentorable.xyz/) | Findings: 1 Crit / 2 High / 3 Medium | Bonding-curve launchpad for tokenized mentor access | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 |[BuilDefi](https://buildefi.win/) | [Report](/reports/BuilDefi-Security-Review.pdf) | Memecoin launchpad routing liquidity through Uniswap V4 hooks and V3 pools, with Aave-collateralized treasury | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
+|[Securitize](https://securitize.io/) | [Report](/reports/Securitize-Compliance-Permissionless-Diff-v2.0-Security-Review.pdf) | Permissioned ERC-20 security-token (DSToken) framework; a permissionless ComplianceService variant reduces on-chain enforcement to blacklist, pause, balance, and post-issuance lockup, with KYC handled off-chain | [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)](https://soliditylang.org/) |
 
 ### Governance
 
