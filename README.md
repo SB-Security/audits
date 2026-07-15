@@ -10,7 +10,7 @@
 
 **8 out of 10 clients come back for the next audit.** 
 
-> **3 years · 60+ audits · $1.1B in TVL reviewed · 400 Crit/High found · zero hacks on audited scope**
+> **3 years · 105+ audits · $1.1B in TVL reviewed · 400 Crit/High found · zero hacks on audited scope**
 
 ### → [Request an audit](https://www.sbsecurity.net/request-audit) — audit kickoff in <24h
 
