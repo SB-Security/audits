@@ -111,6 +111,18 @@ Why 8 out of 10 clients come back:
 
   </td>
   </tr>
+  <tr>
+  <td width="50%" valign="top">
+
+  *"SBSecurity is a great auditing firm that will, unlike other auditors, ask a lot of questions to understand the smart contracts intention and will quickly point out flaws that don't look too obvious at first. They are quick and precise, and even after audits, very quick to respond and engage with their clients long term via socials and directly via DM."*
+
+  **— [Ozzy](https://x.com/MEADGod)** · Founder of [Pons](https://pons.family/) and [RootsFi](https://rootsfi.com/)
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+  </tr>
   </table>
 
 ## Full Portfolio
